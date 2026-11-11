@@ -1,0 +1,3048 @@
+[
+ {
+  "id": 1,
+  "name": "Clătite cu fructe",
+  "category": "Dulciuri și deserturi",
+  "servings": "4 porții",
+  "time": "25 min",
+  "ingredients": [
+   {
+    "text": "200 g făină de grâu",
+    "keys": [
+     "Făină de grâu"
+    ],
+    "optional": false
+   },
+   {
+    "text": "250 ml lapte",
+    "keys": [
+     "Lapte"
+    ],
+    "optional": false
+   },
+   {
+    "text": "2 ouă (aprox. 100 g)",
+    "keys": [
+     "Ouă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "20 g zahăr",
+    "keys": [
+     "Zahăr"
+    ],
+    "optional": false
+   },
+   {
+    "text": "15 ml ulei",
+    "keys": [
+     "Ulei"
+    ],
+    "optional": false
+   },
+   {
+    "text": "200 g fructe proaspete",
+    "keys": [
+     "Fructe proaspete (în funcție de sezon)"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Gluten (grâu), lapte, ouă. Poate conține urme în funcție de produse.",
+  "diet": {
+   "gluten": "da",
+   "lactose": "da, cu lapte obișnuit",
+   "vegan": "nu",
+   "vegetarian": "da"
+  },
+  "flags": {
+   "glutenFree": false,
+   "lactoseFree": false,
+   "vegan": false,
+   "vegetarian": true
+  },
+  "benefits": "Ouăle și laptele furnizează proteine; fructele aduc fibre, vitamina C și antioxidanți.",
+  "steps": [
+   "Amestecă făina, ouăle, laptele și zahărul până obții un aluat fluid.",
+   "Coace clătite subțiri într-o tigaie unsă ușor.",
+   "Servește cu fructele."
+  ]
+ },
+ {
+  "id": 2,
+  "name": "Brownie",
+  "category": "Dulciuri și deserturi",
+  "servings": "8 porții",
+  "time": "40 min",
+  "ingredients": [
+   {
+    "text": "200 g ciocolată neagră",
+    "keys": [
+     "Ciocolată neagră"
+    ],
+    "optional": false
+   },
+   {
+    "text": "120 g unt",
+    "keys": [
+     "Unt"
+    ],
+    "optional": false
+   },
+   {
+    "text": "150 g zahăr",
+    "keys": [
+     "Zahăr"
+    ],
+    "optional": false
+   },
+   {
+    "text": "3 ouă (aprox. 150 g)",
+    "keys": [
+     "Ouă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "100 g făină de grâu",
+    "keys": [
+     "Făină de grâu"
+    ],
+    "optional": false
+   },
+   {
+    "text": "20 g cacao",
+    "keys": [
+     "Cacao"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Gluten, lapte și ouă; ciocolata poate conține soia sau urme de nuci.",
+  "diet": {
+   "gluten": "da",
+   "lactose": "de obicei da",
+   "vegan": "nu",
+   "vegetarian": "da"
+  },
+  "flags": {
+   "glutenFree": false,
+   "lactoseFree": false,
+   "vegan": false,
+   "vegetarian": true
+  },
+  "benefits": "Oferă energie; cacaoa și ciocolata neagră conțin polifenoli. Este un desert, nu o sursă principală de nutrienți.",
+  "steps": [
+   "Topește ciocolata cu untul.",
+   "Încorporează zahărul, ouăle, făina și cacaoa.",
+   "Coace într-o tavă la 175°C aproximativ 20–25 de minute."
+  ]
+ },
+ {
+  "id": 3,
+  "name": "Cheesecake",
+  "category": "Dulciuri și deserturi",
+  "servings": "8 porții",
+  "time": "70 min + răcire",
+  "ingredients": [
+   {
+    "text": "200 g biscuiți",
+    "keys": [
+     "Biscuiți"
+    ],
+    "optional": false
+   },
+   {
+    "text": "100 g unt",
+    "keys": [
+     "Unt"
+    ],
+    "optional": false
+   },
+   {
+    "text": "500 g cremă de brânză",
+    "keys": [
+     "Cremă de brânză"
+    ],
+    "optional": false
+   },
+   {
+    "text": "150 g zahăr",
+    "keys": [
+     "Zahăr"
+    ],
+    "optional": false
+   },
+   {
+    "text": "2 ouă (aprox. 100 g)",
+    "keys": [
+     "Ouă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "150 g iaurt",
+    "keys": [
+     "Iaurt"
+    ],
+    "optional": false
+   },
+   {
+    "text": "150 g fructe",
+    "keys": [
+     "Fructe proaspete (în funcție de sezon)"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Gluten și lapte; ouă. Biscuiții pot conține soia.",
+  "diet": {
+   "gluten": "da, cu biscuiți obișnuiți",
+   "lactose": "de obicei da",
+   "vegan": "nu",
+   "vegetarian": "da"
+  },
+  "flags": {
+   "glutenFree": false,
+   "lactoseFree": false,
+   "vegan": false,
+   "vegetarian": true
+  },
+  "benefits": "Produsele lactate contribuie cu proteine și calciu; fructele aduc fibre și vitamine.",
+  "steps": [
+   "Zdrobește biscuiții și amestecă-i cu untul topit.",
+   "Presează în formă.",
+   "Mixează crema de brânză, zahărul, ouăle și iaurtul.",
+   "Toarnă peste bază și coace la 160°C circa 45–50 min.",
+   "Răcește și adaugă fructele."
+  ]
+ },
+ {
+  "id": 4,
+  "name": "Tiramisu",
+  "category": "Dulciuri și deserturi",
+  "servings": "6–8 porții",
+  "time": "30 min + răcire",
+  "ingredients": [
+   {
+    "text": "200 g pișcoturi",
+    "keys": [
+     "Pișcoturi"
+    ],
+    "optional": false
+   },
+   {
+    "text": "250 g mascarpone",
+    "keys": [
+     "Mascarpone"
+    ],
+    "optional": false
+   },
+   {
+    "text": "3 ouă (aprox. 150 g)",
+    "keys": [
+     "Ouă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "70 g zahăr",
+    "keys": [
+     "Zahăr"
+    ],
+    "optional": false
+   },
+   {
+    "text": "200 ml cafea răcită",
+    "keys": [
+     "Cafea"
+    ],
+    "optional": false
+   },
+   {
+    "text": "10 g cacao",
+    "keys": [
+     "Cacao"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Gluten, lapte și ouă; unele produse pot conține soia.",
+  "diet": {
+   "gluten": "da",
+   "lactose": "de obicei da",
+   "vegan": "nu",
+   "vegetarian": "da"
+  },
+  "flags": {
+   "glutenFree": false,
+   "lactoseFree": false,
+   "vegan": false,
+   "vegetarian": true
+  },
+  "benefits": "Mascarpone și ouăle furnizează proteine și calciu; cafeaua și cacaoa conțin compuși antioxidanți.",
+  "steps": [
+   "Separă ouăle.",
+   "Bate gălbenușurile cu zahărul și mascarpone, apoi încorporează albușurile bătute.",
+   "Înmoaie rapid pișcoturile în cafea, așază în straturi cu cremă și presară cacao.",
+   "Folosește ouă pasteurizate dacă rețeta nu este preparată termic."
+  ]
+ },
+ {
+  "id": 5,
+  "name": "Brioșe cu afine",
+  "category": "Dulciuri și deserturi",
+  "servings": "12 bucăți",
+  "time": "35 min",
+  "ingredients": [
+   {
+    "text": "250 g făină de grâu",
+    "keys": [
+     "Făină de grâu"
+    ],
+    "optional": false
+   },
+   {
+    "text": "150 ml lapte",
+    "keys": [
+     "Lapte"
+    ],
+    "optional": false
+   },
+   {
+    "text": "1 ou (aprox. 50 g)",
+    "keys": [
+     "Ouă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "100 g zahăr",
+    "keys": [
+     "Zahăr"
+    ],
+    "optional": false
+   },
+   {
+    "text": "80 g unt",
+    "keys": [
+     "Unt"
+    ],
+    "optional": false
+   },
+   {
+    "text": "120 g afine",
+    "keys": [
+     "Afine"
+    ],
+    "optional": false
+   },
+   {
+    "text": "8 g praf de copt",
+    "keys": [
+     "Praf de copt"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Gluten, lapte și ouă.",
+  "diet": {
+   "gluten": "da",
+   "lactose": "da",
+   "vegan": "nu",
+   "vegetarian": "da"
+  },
+  "flags": {
+   "glutenFree": false,
+   "lactoseFree": false,
+   "vegan": false,
+   "vegetarian": true
+  },
+  "benefits": "Afinele conțin fibre și antocianine; laptele și oul contribuie cu proteine.",
+  "steps": [
+   "Amestecă ingredientele uscate.",
+   "Separat, combină laptele, oul și untul topit.",
+   "Unește compozițiile, adaugă afinele și coace în forme la 180°C aproximativ 20–22 min."
+  ]
+ },
+ {
+  "id": 6,
+  "name": "Tartă cu fructe",
+  "category": "Dulciuri și deserturi",
+  "servings": "8 porții",
+  "time": "60 min",
+  "ingredients": [
+   {
+    "text": "250 g făină de grâu",
+    "keys": [
+     "Făină de grâu"
+    ],
+    "optional": false
+   },
+   {
+    "text": "125 g unt",
+    "keys": [
+     "Unt"
+    ],
+    "optional": false
+   },
+   {
+    "text": "1 ou (aprox. 50 g)",
+    "keys": [
+     "Ouă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "60 g zahăr",
+    "keys": [
+     "Zahăr"
+    ],
+    "optional": false
+   },
+   {
+    "text": "250 ml lapte",
+    "keys": [
+     "Lapte"
+    ],
+    "optional": false
+   },
+   {
+    "text": "20 g amidon",
+    "keys": [
+     "Amidon"
+    ],
+    "optional": false
+   },
+   {
+    "text": "250 g fructe",
+    "keys": [
+     "Fructe proaspete (în funcție de sezon)"
+    ],
+    "optional": false
+   },
+   {
+    "text": "5 ml vanilie",
+    "keys": [
+     "Vanilie"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Gluten, lapte și ouă.",
+  "diet": {
+   "gluten": "da",
+   "lactose": "da, cu lapte și unt obișnuite",
+   "vegan": "nu",
+   "vegetarian": "da"
+  },
+  "flags": {
+   "glutenFree": false,
+   "lactoseFree": false,
+   "vegan": false,
+   "vegetarian": true
+  },
+  "benefits": "Fructele aduc fibre, vitamine și antioxidanți; laptele contribuie cu calciu.",
+  "steps": [
+   "Frământă făina cu untul, oul și zahărul.",
+   "Coace crusta la 180°C până se rumenește.",
+   "Fierbe laptele cu amidonul și vanilia până se îngroașă.",
+   "Răcește crema, umple tarta și decorează cu fructe."
+  ]
+ },
+ {
+  "id": 7,
+  "name": "Paste Carbonara",
+  "category": "Mâncăruri principale",
+  "servings": "4 porții",
+  "time": "25 min",
+  "ingredients": [
+   {
+    "text": "320 g spaghetti",
+    "keys": [
+     "Paste / spaghetti"
+    ],
+    "optional": false
+   },
+   {
+    "text": "150 g guanciale",
+    "keys": [
+     "Guanciale"
+    ],
+    "optional": false
+   },
+   {
+    "text": "3 gălbenușuri (aprox. 55 g)",
+    "keys": [
+     "Ouă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "1 ou (50 g)",
+    "keys": [
+     "Ouă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "70 g pecorino/parmezan",
+    "keys": [
+     "Brânză pecorino / parmezan"
+    ],
+    "optional": false
+   },
+   {
+    "text": "piper",
+    "keys": [
+     "Piper"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Gluten, ouă și lapte. Verifică brânza și produsele din carne.",
+  "diet": {
+   "gluten": "da, cu paste obișnuite",
+   "lactose": "posibilă, în funcție de brânză",
+   "vegan": "nu",
+   "vegetarian": "nu"
+  },
+  "flags": {
+   "glutenFree": false,
+   "lactoseFree": false,
+   "vegan": false,
+   "vegetarian": false
+  },
+  "benefits": "Oferă proteine din ou și brânză și carbohidrați pentru energie.",
+  "steps": [
+   "Fierbe pastele.",
+   "Rumenește guanciale.",
+   "Amestecă ouăle cu brânza și piperul.",
+   "Ia tigaia de pe foc, adaugă pastele și compoziția de ou, apoi amestecă folosind puțină apă de la paste."
+  ]
+ },
+ {
+  "id": 8,
+  "name": "Paste Bolognese",
+  "category": "Mâncăruri principale",
+  "servings": "4 porții",
+  "time": "45 min",
+  "ingredients": [
+   {
+    "text": "320 g paste",
+    "keys": [
+     "Paste / spaghetti"
+    ],
+    "optional": false
+   },
+   {
+    "text": "400 g carne tocată",
+    "keys": [
+     "Carne tocată"
+    ],
+    "optional": false
+   },
+   {
+    "text": "400 g roșii pasate",
+    "keys": [
+     "Roșii pasate"
+    ],
+    "optional": false
+   },
+   {
+    "text": "100 g ceapă",
+    "keys": [
+     "Ceapă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "80 g morcov",
+    "keys": [
+     "Morcovi"
+    ],
+    "optional": false
+   },
+   {
+    "text": "40 g țelină",
+    "keys": [
+     "Țelină"
+    ],
+    "optional": false
+   },
+   {
+    "text": "15 ml ulei",
+    "keys": [
+     "Ulei"
+    ],
+    "optional": false
+   },
+   {
+    "text": "30 g parmezan (opțional)",
+    "keys": [
+     "Brânză pecorino / parmezan"
+    ],
+    "optional": true
+   }
+  ],
+  "allergens": "Gluten; țelină; lapte dacă se adaugă parmezan. Verifică pastele și sosul.",
+  "diet": {
+   "gluten": "da, cu paste obișnuite",
+   "lactose": "nu în sosul de bază; posibilă cu parmezan",
+   "vegan": "nu",
+   "vegetarian": "nu"
+  },
+  "flags": {
+   "glutenFree": false,
+   "lactoseFree": true,
+   "vegan": false,
+   "vegetarian": false
+  },
+  "benefits": "Carnea furnizează proteine, fier și vitamina B12; roșiile conțin licopen.",
+  "steps": [
+   "Călește ceapa, morcovul și țelina în ulei.",
+   "Adaugă carnea și rumenește.",
+   "Pune roșiile și fierbe la foc mic 25–30 min.",
+   "Servește cu pastele fierte."
+  ]
+ },
+ {
+  "id": 9,
+  "name": "Lasagna",
+  "category": "Mâncăruri principale",
+  "servings": "6 porții",
+  "time": "75 min",
+  "ingredients": [
+   {
+    "text": "250 g foi de lasagna",
+    "keys": [
+     "Foi de lasagna"
+    ],
+    "optional": false
+   },
+   {
+    "text": "500 g carne tocată",
+    "keys": [
+     "Carne tocată"
+    ],
+    "optional": false
+   },
+   {
+    "text": "500 g roșii pasate",
+    "keys": [
+     "Roșii pasate"
+    ],
+    "optional": false
+   },
+   {
+    "text": "100 g ceapă",
+    "keys": [
+     "Ceapă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "500 ml lapte",
+    "keys": [
+     "Lapte"
+    ],
+    "optional": false
+   },
+   {
+    "text": "40 g unt",
+    "keys": [
+     "Unt"
+    ],
+    "optional": false
+   },
+   {
+    "text": "40 g făină",
+    "keys": [
+     "Făină de grâu"
+    ],
+    "optional": false
+   },
+   {
+    "text": "150 g mozzarella",
+    "keys": [
+     "Brânză mozzarella"
+    ],
+    "optional": false
+   },
+   {
+    "text": "50 g parmezan",
+    "keys": [
+     "Brânză pecorino / parmezan"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Gluten, lapte; posibil ouă în foile de lasagna și țelină în unele sosuri.",
+  "diet": {
+   "gluten": "de obicei da",
+   "lactose": "da",
+   "vegan": "nu",
+   "vegetarian": "nu"
+  },
+  "flags": {
+   "glutenFree": false,
+   "lactoseFree": false,
+   "vegan": false,
+   "vegetarian": false
+  },
+  "benefits": "Conține proteine, fier, calciu și carbohidrați.",
+  "steps": [
+   "Pregătește sosul de carne din ceapă, carne și roșii.",
+   "Pentru bechamel, topește untul, adaugă făina și apoi laptele treptat.",
+   "Așază în straturi foi, sosul de carne și bechamelul.",
+   "Presară brânzeturile și coace la 180°C circa 35–40 min."
+  ]
+ },
+ {
+  "id": 10,
+  "name": "Pui cu orez și legume",
+  "category": "Mâncăruri principale",
+  "servings": "4 porții",
+  "time": "40 min",
+  "ingredients": [
+   {
+    "text": "500 g piept de pui",
+    "keys": [
+     "Piept de pui"
+    ],
+    "optional": false
+   },
+   {
+    "text": "200 g orez",
+    "keys": [
+     "Orez"
+    ],
+    "optional": false
+   },
+   {
+    "text": "1 ardei (150 g)",
+    "keys": [
+     "Ardei"
+    ],
+    "optional": false
+   },
+   {
+    "text": "1 morcov (100 g)",
+    "keys": [
+     "Morcovi"
+    ],
+    "optional": false
+   },
+   {
+    "text": "100 g ceapă",
+    "keys": [
+     "Ceapă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "15 ml ulei",
+    "keys": [
+     "Ulei"
+    ],
+    "optional": false
+   },
+   {
+    "text": "500 ml apă sau supă",
+    "keys": [
+     "Apă",
+     "Supă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "condimente",
+    "keys": [
+     "Sare"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "În varianta simplă, nu conține obligatoriu niciunul dintre cei 14 alergeni. Verifică supa și condimentele.",
+  "diet": {
+   "gluten": "nu în rețeta de bază",
+   "lactose": "nu",
+   "vegan": "nu",
+   "vegetarian": "nu"
+  },
+  "flags": {
+   "glutenFree": true,
+   "lactoseFree": true,
+   "vegan": false,
+   "vegetarian": false
+  },
+  "benefits": "Puiul oferă proteine și vitamina B12; orezul furnizează energie; legumele aduc fibre și vitamine.",
+  "steps": [
+   "Taie puiul și legumele.",
+   "Rumenește puiul în ulei, adaugă ceapa, morcovul și ardeiul, apoi orezul și lichidul.",
+   "Fierbe acoperit până când orezul este gătit și puiul bine pătruns."
+  ]
+ },
+ {
+  "id": 11,
+  "name": "Cartofi gratinați",
+  "category": "Mâncăruri principale",
+  "servings": "4 porții",
+  "time": "60 min",
+  "ingredients": [
+   {
+    "text": "800 g cartofi",
+    "keys": [
+     "Cartofi"
+    ],
+    "optional": false
+   },
+   {
+    "text": "200 ml smântână pentru gătit",
+    "keys": [
+     "Smântână pentru gătit"
+    ],
+    "optional": false
+   },
+   {
+    "text": "150 g brânză",
+    "keys": [
+     "Brânză"
+    ],
+    "optional": false
+   },
+   {
+    "text": "20 g unt",
+    "keys": [
+     "Unt"
+    ],
+    "optional": false
+   },
+   {
+    "text": "2 căței usturoi (10 g)",
+    "keys": [
+     "Usturoi"
+    ],
+    "optional": false
+   },
+   {
+    "text": "sare și piper",
+    "keys": [
+     "Sare"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Lapte.",
+  "diet": {
+   "gluten": "nu în rețeta de bază",
+   "lactose": "da, în funcție de smântână și brânză",
+   "vegan": "nu",
+   "vegetarian": "da, dacă brânza are cheag vegetarian"
+  },
+  "flags": {
+   "glutenFree": true,
+   "lactoseFree": false,
+   "vegan": false,
+   "vegetarian": true
+  },
+  "benefits": "Cartofii furnizează potasiu și carbohidrați; lactatele contribuie cu calciu și proteine.",
+  "steps": [
+   "Taie cartofii felii subțiri.",
+   "Așază-i într-un vas uns cu unt, adaugă usturoiul și smântâna, apoi brânza.",
+   "Coace la 180°C aproximativ 40–45 min."
+  ]
+ },
+ {
+  "id": 12,
+  "name": "Șnițel de pui",
+  "category": "Mâncăruri principale",
+  "servings": "4 porții",
+  "time": "30 min",
+  "ingredients": [
+   {
+    "text": "600 g piept de pui",
+    "keys": [
+     "Piept de pui"
+    ],
+    "optional": false
+   },
+   {
+    "text": "2 ouă (100 g)",
+    "keys": [
+     "Ouă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "80 g făină",
+    "keys": [
+     "Făină de grâu"
+    ],
+    "optional": false
+   },
+   {
+    "text": "120 g pesmet",
+    "keys": [
+     "Pesmet"
+    ],
+    "optional": false
+   },
+   {
+    "text": "30 ml ulei",
+    "keys": [
+     "Ulei"
+    ],
+    "optional": false
+   },
+   {
+    "text": "sare și piper",
+    "keys": [
+     "Sare"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Gluten și ouă; pesmetul poate conține și soia sau susan.",
+  "diet": {
+   "gluten": "da",
+   "lactose": "nu în rețeta de bază",
+   "vegan": "nu",
+   "vegetarian": "nu"
+  },
+  "flags": {
+   "glutenFree": false,
+   "lactoseFree": true,
+   "vegan": false,
+   "vegetarian": false
+  },
+  "benefits": "Puiul furnizează proteine, vitamina B12 și niacină.",
+  "steps": [
+   "Taie pieptul în felii și aplatizează ușor.",
+   "Trece prin făină, ou bătut și pesmet.",
+   "Gătește în tigaie cu puțin ulei până este bine pătruns."
+  ]
+ },
+ {
+  "id": 13,
+  "name": "Ciorbă de perișoare",
+  "category": "Supe și ciorbe",
+  "servings": "6 porții",
+  "time": "60 min",
+  "ingredients": [
+   {
+    "text": "300 g carne tocată",
+    "keys": [
+     "Carne tocată"
+    ],
+    "optional": false
+   },
+   {
+    "text": "50 g orez pentru perișoare",
+    "keys": [
+     "Orez"
+    ],
+    "optional": false
+   },
+   {
+    "text": "1 ou (50 g)",
+    "keys": [
+     "Ouă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "100 g morcov",
+    "keys": [
+     "Morcovi"
+    ],
+    "optional": false
+   },
+   {
+    "text": "80 g ceapă",
+    "keys": [
+     "Ceapă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "80 g țelină",
+    "keys": [
+     "Țelină"
+    ],
+    "optional": false
+   },
+   {
+    "text": "1 ardei (120 g)",
+    "keys": [
+     "Ardei"
+    ],
+    "optional": false
+   },
+   {
+    "text": "1,5 l apă",
+    "keys": [
+     "Apă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "250 ml borș",
+    "keys": [
+     "Borș"
+    ],
+    "optional": false
+   },
+   {
+    "text": "verdeață",
+    "keys": [
+     "Verdeață"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Ouă și țelină; borșul și condimentele trebuie verificate pentru gluten.",
+  "diet": {
+   "gluten": "nu în rețeta de bază",
+   "lactose": "nu",
+   "vegan": "nu",
+   "vegetarian": "nu"
+  },
+  "flags": {
+   "glutenFree": true,
+   "lactoseFree": true,
+   "vegan": false,
+   "vegetarian": false
+  },
+  "benefits": "Proteine din carne, fier și fibre, vitamine și minerale din legume.",
+  "steps": [
+   "Amestecă carnea cu orezul și o parte din ou, formează perișoare.",
+   "Fierbe legumele în apă, adaugă perișoarele și fierbe până sunt gătite.",
+   "Adaugă borșul fiert separat și verdeața."
+  ]
+ },
+ {
+  "id": 14,
+  "name": "Supă de pui cu tăiței",
+  "category": "Supe și ciorbe",
+  "servings": "6 porții",
+  "time": "75 min",
+  "ingredients": [
+   {
+    "text": "500 g carne de pui",
+    "keys": [
+     "Carne de pui"
+    ],
+    "optional": false
+   },
+   {
+    "text": "100 g tăiței",
+    "keys": [
+     "Tăiței"
+    ],
+    "optional": false
+   },
+   {
+    "text": "150 g morcov",
+    "keys": [
+     "Morcovi"
+    ],
+    "optional": false
+   },
+   {
+    "text": "80 g țelină",
+    "keys": [
+     "Țelină"
+    ],
+    "optional": false
+   },
+   {
+    "text": "100 g ceapă",
+    "keys": [
+     "Ceapă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "2 l apă",
+    "keys": [
+     "Apă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "pătrunjel",
+    "keys": [
+     "Pătrunjel"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Țelină, gluten și posibil ouă din tăiței.",
+  "diet": {
+   "gluten": "da, cu tăiței obișnuiți",
+   "lactose": "nu",
+   "vegan": "nu",
+   "vegetarian": "nu"
+  },
+  "flags": {
+   "glutenFree": false,
+   "lactoseFree": true,
+   "vegan": false,
+   "vegetarian": false
+  },
+  "benefits": "Proteine din pui, lichide pentru hidratare și vitamine din legume.",
+  "steps": [
+   "Fierbe puiul și îndepărtează spuma.",
+   "Adaugă legumele și fierbe până se înmoaie.",
+   "Pune tăițeii spre final și gătește conform ambalajului.",
+   "Adaugă pătrunjel."
+  ]
+ },
+ {
+  "id": 15,
+  "name": "Ciorbă de legume",
+  "category": "Supe și ciorbe",
+  "servings": "6 porții",
+  "time": "40 min",
+  "ingredients": [
+   {
+    "text": "150 g morcov",
+    "keys": [
+     "Morcovi"
+    ],
+    "optional": false
+   },
+   {
+    "text": "250 g cartofi",
+    "keys": [
+     "Cartofi"
+    ],
+    "optional": false
+   },
+   {
+    "text": "120 g ceapă",
+    "keys": [
+     "Ceapă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "150 g ardei",
+    "keys": [
+     "Ardei"
+    ],
+    "optional": false
+   },
+   {
+    "text": "200 g roșii",
+    "keys": [
+     "Roșii"
+    ],
+    "optional": false
+   },
+   {
+    "text": "80 g țelină",
+    "keys": [
+     "Țelină"
+    ],
+    "optional": false
+   },
+   {
+    "text": "1,5 l apă",
+    "keys": [
+     "Apă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "250 ml borș",
+    "keys": [
+     "Borș"
+    ],
+    "optional": false
+   },
+   {
+    "text": "15 ml ulei",
+    "keys": [
+     "Ulei"
+    ],
+    "optional": false
+   },
+   {
+    "text": "verdeață",
+    "keys": [
+     "Verdeață"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Țelină; verifică borșul și eventualele amestecuri de condimente.",
+  "diet": {
+   "gluten": "nu în rețeta de bază",
+   "lactose": "nu",
+   "vegan": "da, fără smântână",
+   "vegetarian": "da"
+  },
+  "flags": {
+   "glutenFree": true,
+   "lactoseFree": true,
+   "vegan": true,
+   "vegetarian": true
+  },
+  "benefits": "Fibre, vitamina C, potasiu și diverși fitonutrienți din legume.",
+  "steps": [
+   "Taie legumele și fierbe-le în apă până se înmoaie.",
+   "Adaugă borșul fiert separat, uleiul și verdeața.",
+   "Potrivește gustul."
+  ]
+ },
+ {
+  "id": 16,
+  "name": "Supă cremă de ciuperci",
+  "category": "Supe și ciorbe",
+  "servings": "4 porții",
+  "time": "35 min",
+  "ingredients": [
+   {
+    "text": "400 g ciuperci",
+    "keys": [
+     "Ciuperci"
+    ],
+    "optional": false
+   },
+   {
+    "text": "150 g cartof",
+    "keys": [
+     "Cartofi"
+    ],
+    "optional": false
+   },
+   {
+    "text": "100 g ceapă",
+    "keys": [
+     "Ceapă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "150 ml smântână pentru gătit",
+    "keys": [
+     "Smântână pentru gătit"
+    ],
+    "optional": false
+   },
+   {
+    "text": "15 g unt",
+    "keys": [
+     "Unt"
+    ],
+    "optional": false
+   },
+   {
+    "text": "700 ml apă sau supă",
+    "keys": [
+     "Apă",
+     "Supă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "usturoi",
+    "keys": [
+     "Usturoi"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Lapte; țelină dacă se folosește supă concentrată. Gluten dacă se îngroașă cu făină.",
+  "diet": {
+   "gluten": "nu în rețeta de bază",
+   "lactose": "de obicei da",
+   "vegan": "nu",
+   "vegetarian": "da, cu supă de legume"
+  },
+  "flags": {
+   "glutenFree": true,
+   "lactoseFree": false,
+   "vegan": false,
+   "vegetarian": true
+  },
+  "benefits": "Ciupercile oferă fibre, vitamine din grupul B și minerale.",
+  "steps": [
+   "Călește ceapa și ciupercile în unt.",
+   "Adaugă cartoful și lichidul, fierbe până se înmoaie, apoi pasează.",
+   "Încorporează smântâna și încălzește fără să fierbi puternic."
+  ]
+ },
+ {
+  "id": 17,
+  "name": "Ciorbă de fasole",
+  "category": "Supe și ciorbe",
+  "servings": "6 porții",
+  "time": "70 min",
+  "ingredients": [
+   {
+    "text": "300 g fasole uscată",
+    "keys": [
+     "Fasole uscată"
+    ],
+    "optional": false
+   },
+   {
+    "text": "120 g morcov",
+    "keys": [
+     "Morcovi"
+    ],
+    "optional": false
+   },
+   {
+    "text": "100 g ceapă",
+    "keys": [
+     "Ceapă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "100 g ardei",
+    "keys": [
+     "Ardei"
+    ],
+    "optional": false
+   },
+   {
+    "text": "150 g roșii",
+    "keys": [
+     "Roșii"
+    ],
+    "optional": false
+   },
+   {
+    "text": "60 g țelină",
+    "keys": [
+     "Țelină"
+    ],
+    "optional": false
+   },
+   {
+    "text": "1,8 l apă",
+    "keys": [
+     "Apă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "15 ml ulei",
+    "keys": [
+     "Ulei"
+    ],
+    "optional": false
+   },
+   {
+    "text": "verdeață",
+    "keys": [
+     "Verdeață"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Țelină; verifică eventualele condimente sau produse adăugate.",
+  "diet": {
+   "gluten": "nu în rețeta de bază",
+   "lactose": "nu",
+   "vegan": "da, fără afumătură",
+   "vegetarian": "da"
+  },
+  "flags": {
+   "glutenFree": true,
+   "lactoseFree": true,
+   "vegan": true,
+   "vegetarian": true
+  },
+  "benefits": "Fasolea este bogată în fibre, proteine vegetale, fier și magneziu.",
+  "steps": [
+   "Înmoaie fasolea peste noapte și schimbă apa.",
+   "Fierbe până se înmoaie.",
+   "Adaugă legumele și continuă fierberea până sunt gătite.",
+   "Potrivește gustul și adaugă verdeață."
+  ]
+ },
+ {
+  "id": 18,
+  "name": "Salată grecească",
+  "category": "Salate",
+  "servings": "2 porții",
+  "time": "15 min",
+  "ingredients": [
+   {
+    "text": "250 g roșii",
+    "keys": [
+     "Roșii"
+    ],
+    "optional": false
+   },
+   {
+    "text": "200 g castraveți",
+    "keys": [
+     "Castraveți"
+    ],
+    "optional": false
+   },
+   {
+    "text": "120 g feta",
+    "keys": [
+     "Brânză feta"
+    ],
+    "optional": false
+   },
+   {
+    "text": "50 g măsline",
+    "keys": [
+     "Măsline"
+    ],
+    "optional": false
+   },
+   {
+    "text": "40 g ceapă roșie",
+    "keys": [
+     "Ceapă roșie"
+    ],
+    "optional": false
+   },
+   {
+    "text": "15 ml ulei de măsline",
+    "keys": [
+     "Ulei de măsline"
+    ],
+    "optional": false
+   },
+   {
+    "text": "oregano",
+    "keys": [
+     "Oregano"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Lapte (feta).",
+  "diet": {
+   "gluten": "nu",
+   "lactose": "poate exista, în funcție de feta",
+   "vegan": "nu",
+   "vegetarian": "da, dacă feta are cheag vegetarian"
+  },
+  "flags": {
+   "glutenFree": true,
+   "lactoseFree": false,
+   "vegan": false,
+   "vegetarian": true
+  },
+  "benefits": "Legumele oferă fibre și vitamina C; uleiul de măsline conține grăsimi nesaturate.",
+  "steps": [
+   "Taie legumele și feta.",
+   "Adaugă măslinele, uleiul și oregano.",
+   "Amestecă delicat."
+  ]
+ },
+ {
+  "id": 19,
+  "name": "Salată Caesar cu pui",
+  "category": "Salate",
+  "servings": "2 porții",
+  "time": "25 min",
+  "ingredients": [
+   {
+    "text": "250 g piept de pui",
+    "keys": [
+     "Piept de pui"
+    ],
+    "optional": false
+   },
+   {
+    "text": "150 g salată romaine",
+    "keys": [
+     "Salată romaine"
+    ],
+    "optional": false
+   },
+   {
+    "text": "60 g crutoane",
+    "keys": [
+     "Crutoane"
+    ],
+    "optional": false
+   },
+   {
+    "text": "30 g parmezan",
+    "keys": [
+     "Brânză pecorino / parmezan"
+    ],
+    "optional": false
+   },
+   {
+    "text": "60 g sos Caesar",
+    "keys": [
+     "Sos Caesar"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Gluten (crutoane), lapte, ouă; pește dacă sosul conține anșoa; posibil muștar.",
+  "diet": {
+   "gluten": "da",
+   "lactose": "posibilă",
+   "vegan": "nu",
+   "vegetarian": "nu, în varianta cu pui și sos cu anșoa"
+  },
+  "flags": {
+   "glutenFree": false,
+   "lactoseFree": false,
+   "vegan": false,
+   "vegetarian": false
+  },
+  "benefits": "Puiul furnizează proteine; salata aduce fibre și vitamine; parmezanul oferă calciu.",
+  "steps": [
+   "Gătește puiul complet și taie-l felii.",
+   "Amestecă salata cu sosul, adaugă crutoanele, puiul și parmezanul."
+  ]
+ },
+ {
+  "id": 20,
+  "name": "Salată cu ton",
+  "category": "Salate",
+  "servings": "2 porții",
+  "time": "15 min",
+  "ingredients": [
+   {
+    "text": "160 g ton scurs",
+    "keys": [
+     "Ton"
+    ],
+    "optional": false
+   },
+   {
+    "text": "100 g porumb",
+    "keys": [
+     "Porumb"
+    ],
+    "optional": false
+   },
+   {
+    "text": "120 g roșii",
+    "keys": [
+     "Roșii"
+    ],
+    "optional": false
+   },
+   {
+    "text": "100 g castraveți",
+    "keys": [
+     "Castraveți"
+    ],
+    "optional": false
+   },
+   {
+    "text": "80 g salată verde",
+    "keys": [
+     "Salată verde"
+    ],
+    "optional": false
+   },
+   {
+    "text": "15 ml ulei de măsline",
+    "keys": [
+     "Ulei de măsline"
+    ],
+    "optional": false
+   },
+   {
+    "text": "lămâie",
+    "keys": [
+     "Lămâi / suc de lămâie"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Pește.",
+  "diet": {
+   "gluten": "nu în rețeta de bază",
+   "lactose": "nu",
+   "vegan": "nu",
+   "vegetarian": "nu"
+  },
+  "flags": {
+   "glutenFree": true,
+   "lactoseFree": true,
+   "vegan": false,
+   "vegetarian": false
+  },
+  "benefits": "Tonul furnizează proteine și acizi grași Omega-3; legumele aduc fibre și vitamine.",
+  "steps": [
+   "Scurge tonul.",
+   "Taie legumele și amestecă-le cu porumbul și tonul.",
+   "Asezonează cu ulei și lămâie."
+  ]
+ },
+ {
+  "id": 21,
+  "name": "Salată cu avocado",
+  "category": "Salate",
+  "servings": "2 porții",
+  "time": "10 min",
+  "ingredients": [
+   {
+    "text": "1 avocado (150 g pulpă)",
+    "keys": [
+     "Avocado"
+    ],
+    "optional": false
+   },
+   {
+    "text": "200 g roșii",
+    "keys": [
+     "Roșii"
+    ],
+    "optional": false
+   },
+   {
+    "text": "50 g ceapă roșie",
+    "keys": [
+     "Ceapă roșie"
+    ],
+    "optional": false
+   },
+   {
+    "text": "15 ml suc de lămâie",
+    "keys": [
+     "Lămâi / suc de lămâie"
+    ],
+    "optional": false
+   },
+   {
+    "text": "10 ml ulei de măsline",
+    "keys": [
+     "Ulei de măsline"
+    ],
+    "optional": false
+   },
+   {
+    "text": "verdeață",
+    "keys": [
+     "Verdeață"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "În rețeta de bază nu sunt incluși alergenii majori; verifică ingredientele adăugate.",
+  "diet": {
+   "gluten": "nu",
+   "lactose": "nu",
+   "vegan": "da",
+   "vegetarian": "da"
+  },
+  "flags": {
+   "glutenFree": true,
+   "lactoseFree": true,
+   "vegan": true,
+   "vegetarian": true
+  },
+  "benefits": "Avocado oferă fibre, potasiu, vitamina E și grăsimi mononesaturate.",
+  "steps": [
+   "Taie avocado, roșiile și ceapa.",
+   "Adaugă sucul de lămâie, uleiul și verdeața.",
+   "Amestecă delicat."
+  ]
+ },
+ {
+  "id": 22,
+  "name": "Salată de paste",
+  "category": "Salate",
+  "servings": "4 porții",
+  "time": "25 min",
+  "ingredients": [
+   {
+    "text": "250 g paste",
+    "keys": [
+     "Paste / spaghetti"
+    ],
+    "optional": false
+   },
+   {
+    "text": "150 g roșii cherry",
+    "keys": [
+     "Roșii cherry"
+    ],
+    "optional": false
+   },
+   {
+    "text": "100 g castraveți",
+    "keys": [
+     "Castraveți"
+    ],
+    "optional": false
+   },
+   {
+    "text": "100 g mozzarella",
+    "keys": [
+     "Brânză mozzarella"
+    ],
+    "optional": false
+   },
+   {
+    "text": "80 g porumb",
+    "keys": [
+     "Porumb"
+    ],
+    "optional": false
+   },
+   {
+    "text": "30 ml ulei de măsline",
+    "keys": [
+     "Ulei de măsline"
+    ],
+    "optional": false
+   },
+   {
+    "text": "busuioc",
+    "keys": [
+     "Busuioc"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Gluten și lapte; posibil ouă în paste și soia/susan în produse ambalate.",
+  "diet": {
+   "gluten": "da, cu paste obișnuite",
+   "lactose": "posibilă, prin mozzarella",
+   "vegan": "nu",
+   "vegetarian": "da"
+  },
+  "flags": {
+   "glutenFree": false,
+   "lactoseFree": false,
+   "vegan": false,
+   "vegetarian": true
+  },
+  "benefits": "Carbohidrați pentru energie, fibre din legume și calciu din mozzarella.",
+  "steps": [
+   "Fierbe pastele, clătește-le rapid cu apă rece și scurge-le.",
+   "Taie legumele și mozzarella.",
+   "Amestecă totul cu ulei și busuioc."
+  ]
+ },
+ {
+  "id": 23,
+  "name": "Omletă cu brânză",
+  "category": "Mic dejun",
+  "servings": "2 porții",
+  "time": "10 min",
+  "ingredients": [
+   {
+    "text": "4 ouă (aprox. 200 g)",
+    "keys": [
+     "Ouă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "30 ml lapte",
+    "keys": [
+     "Lapte"
+    ],
+    "optional": false
+   },
+   {
+    "text": "60 g brânză",
+    "keys": [
+     "Brânză"
+    ],
+    "optional": false
+   },
+   {
+    "text": "5 ml ulei",
+    "keys": [
+     "Ulei"
+    ],
+    "optional": false
+   },
+   {
+    "text": "100 g roșii",
+    "keys": [
+     "Roșii"
+    ],
+    "optional": false
+   },
+   {
+    "text": "sare și piper",
+    "keys": [
+     "Sare"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Ouă și lapte; brânza poate conține lapte.",
+  "diet": {
+   "gluten": "nu în rețeta de bază",
+   "lactose": "da, în funcție de lactate",
+   "vegan": "nu",
+   "vegetarian": "da"
+  },
+  "flags": {
+   "glutenFree": true,
+   "lactoseFree": false,
+   "vegan": false,
+   "vegetarian": true
+  },
+  "benefits": "Ouăle furnizează proteine și colină; lactatele contribuie cu calciu și proteine.",
+  "steps": [
+   "Bate ouăle cu laptele.",
+   "Toarnă într-o tigaie unsă, adaugă brânza și gătește la foc mic până se încheagă.",
+   "Servește cu roșii."
+  ]
+ },
+ {
+  "id": 24,
+  "name": "Toast cu avocado și ou",
+  "category": "Mic dejun",
+  "servings": "2 porții",
+  "time": "12 min",
+  "ingredients": [
+   {
+    "text": "2 felii pâine (80 g)",
+    "keys": [
+     "Pâine"
+    ],
+    "optional": false
+   },
+   {
+    "text": "1 avocado (150 g pulpă)",
+    "keys": [
+     "Avocado"
+    ],
+    "optional": false
+   },
+   {
+    "text": "2 ouă (100 g)",
+    "keys": [
+     "Ouă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "10 ml suc de lămâie",
+    "keys": [
+     "Lămâi / suc de lămâie"
+    ],
+    "optional": false
+   },
+   {
+    "text": "piper",
+    "keys": [
+     "Piper"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Gluten și ouă; pâinea poate conține susan sau soia.",
+  "diet": {
+   "gluten": "da, cu pâine obișnuită",
+   "lactose": "nu",
+   "vegan": "nu, cu ou",
+   "vegetarian": "da"
+  },
+  "flags": {
+   "glutenFree": false,
+   "lactoseFree": true,
+   "vegan": false,
+   "vegetarian": true
+  },
+  "benefits": "Avocado aduce fibre și grăsimi nesaturate; ouăle oferă proteine.",
+  "steps": [
+   "Prăjește pâinea.",
+   "Pasează avocado cu lămâie și piper.",
+   "Gătește ouăle după preferință și așază-le peste toast."
+  ]
+ },
+ {
+  "id": 25,
+  "name": "Terci de ovăz",
+  "category": "Mic dejun",
+  "servings": "2 porții",
+  "time": "10 min",
+  "ingredients": [
+   {
+    "text": "100 g fulgi de ovăz",
+    "keys": [
+     "Fulgi de ovăz"
+    ],
+    "optional": false
+   },
+   {
+    "text": "300 ml lapte",
+    "keys": [
+     "Lapte"
+    ],
+    "optional": false
+   },
+   {
+    "text": "1 banană (120 g)",
+    "keys": [
+     "Banane"
+    ],
+    "optional": false
+   },
+   {
+    "text": "100 g fructe de pădure",
+    "keys": [
+     "Fructe de pădure"
+    ],
+    "optional": false
+   },
+   {
+    "text": "10 g miere (opțional)",
+    "keys": [
+     "Miere"
+    ],
+    "optional": true
+   }
+  ],
+  "allergens": "Lapte; ovăzul poate fi contaminat cu gluten; mierea nu este vegană.",
+  "diet": {
+   "gluten": "depinde de ovăz; alege ovăz certificat fără gluten când este necesar",
+   "lactose": "da, cu lapte obișnuit",
+   "vegan": "nu în varianta cu lapte și miere",
+   "vegetarian": "da"
+  },
+  "flags": {
+   "glutenFree": false,
+   "lactoseFree": false,
+   "vegan": false,
+   "vegetarian": true
+  },
+  "benefits": "Ovăzul conține beta-glucani și fibre; fructele oferă vitamine și antioxidanți.",
+  "steps": [
+   "Fierbe ovăzul cu laptele la foc mic 5–7 minute, amestecând.",
+   "Servește cu banana și fructele.",
+   "Pentru variantă vegană, folosește băutură vegetală și renunță la miere."
+  ]
+ },
+ {
+  "id": 26,
+  "name": "Iaurt cu granola",
+  "category": "Mic dejun",
+  "servings": "2 porții",
+  "time": "5 min",
+  "ingredients": [
+   {
+    "text": "300 g iaurt simplu",
+    "keys": [
+     "Iaurt"
+    ],
+    "optional": false
+   },
+   {
+    "text": "80 g granola",
+    "keys": [
+     "Granola"
+    ],
+    "optional": false
+   },
+   {
+    "text": "150 g fructe de pădure",
+    "keys": [
+     "Fructe de pădure"
+    ],
+    "optional": false
+   },
+   {
+    "text": "10 g miere (opțional)",
+    "keys": [
+     "Miere"
+    ],
+    "optional": true
+   }
+  ],
+  "allergens": "Lapte; granola poate conține gluten, nuci, arahide, susan sau soia.",
+  "diet": {
+   "gluten": "posibil, în funcție de granola",
+   "lactose": "de obicei da",
+   "vegan": "nu cu iaurt obișnuit și miere",
+   "vegetarian": "da"
+  },
+  "flags": {
+   "glutenFree": false,
+   "lactoseFree": false,
+   "vegan": false,
+   "vegetarian": true
+  },
+  "benefits": "Iaurtul oferă proteine și calciu; fructele și ovăzul contribuie cu fibre.",
+  "steps": [
+   "Pune iaurtul în boluri, adaugă granola și fructele.",
+   "Îndulcește opțional cu miere.",
+   "Pentru variantă vegană, folosește iaurt vegetal și fără miere."
+  ]
+ },
+ {
+  "id": 27,
+  "name": "Sandwich cu șuncă și cașcaval",
+  "category": "Mic dejun",
+  "servings": "2 porții",
+  "time": "10 min",
+  "ingredients": [
+   {
+    "text": "4 felii pâine (160 g)",
+    "keys": [
+     "Pâine"
+    ],
+    "optional": false
+   },
+   {
+    "text": "80 g șuncă",
+    "keys": [
+     "Șuncă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "60 g cașcaval",
+    "keys": [
+     "Cașcaval"
+    ],
+    "optional": false
+   },
+   {
+    "text": "80 g roșii",
+    "keys": [
+     "Roșii"
+    ],
+    "optional": false
+   },
+   {
+    "text": "30 g salată verde",
+    "keys": [
+     "Salată verde"
+    ],
+    "optional": false
+   },
+   {
+    "text": "10 g muștar (opțional)",
+    "keys": [
+     "Muștar"
+    ],
+    "optional": true
+   }
+  ],
+  "allergens": "Gluten, lapte; posibil muștar, soia și susan, în funcție de pâine, șuncă și sos.",
+  "diet": {
+   "gluten": "da, cu pâine obișnuită",
+   "lactose": "posibilă",
+   "vegan": "nu",
+   "vegetarian": "nu"
+  },
+  "flags": {
+   "glutenFree": false,
+   "lactoseFree": false,
+   "vegan": false,
+   "vegetarian": false
+  },
+  "benefits": "Proteine din șuncă și cașcaval, calciu din cașcaval și vitamine din legume.",
+  "steps": [
+   "Așază șunca, cașcavalul, roșiile și salata între feliile de pâine.",
+   "Adaugă muștar opțional."
+  ]
+ },
+ {
+  "id": 28,
+  "name": "Bruschete cu roșii",
+  "category": "Gustări și aperitive",
+  "servings": "4 porții",
+  "time": "15 min",
+  "ingredients": [
+   {
+    "text": "1 baghetă (250 g)",
+    "keys": [
+     "Baghetă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "250 g roșii",
+    "keys": [
+     "Roșii"
+    ],
+    "optional": false
+   },
+   {
+    "text": "1 cățel usturoi",
+    "keys": [
+     "Usturoi"
+    ],
+    "optional": false
+   },
+   {
+    "text": "15 ml ulei de măsline",
+    "keys": [
+     "Ulei de măsline"
+    ],
+    "optional": false
+   },
+   {
+    "text": "10 g busuioc",
+    "keys": [
+     "Busuioc"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Gluten din pâine; verifică pâinea pentru urme de susan sau soia.",
+  "diet": {
+   "gluten": "da, cu baghetă obișnuită",
+   "lactose": "nu",
+   "vegan": "da",
+   "vegetarian": "da"
+  },
+  "flags": {
+   "glutenFree": false,
+   "lactoseFree": true,
+   "vegan": true,
+   "vegetarian": true
+  },
+  "benefits": "Roșiile aduc vitamina C și licopen; uleiul de măsline furnizează grăsimi nesaturate.",
+  "steps": [
+   "Taie bagheta și rumenește feliile.",
+   "Freacă ușor cu usturoi.",
+   "Adaugă roșiile cubulețe, busuiocul și uleiul."
+  ]
+ },
+ {
+  "id": 29,
+  "name": "Hummus",
+  "category": "Gustări și aperitive",
+  "servings": "4 porții",
+  "time": "10 min",
+  "ingredients": [
+   {
+    "text": "240 g năut fiert și scurs",
+    "keys": [
+     "Năut fiert"
+    ],
+    "optional": false
+   },
+   {
+    "text": "40 g tahini",
+    "keys": [
+     "Tahini"
+    ],
+    "optional": false
+   },
+   {
+    "text": "30 ml suc de lămâie",
+    "keys": [
+     "Lămâi / suc de lămâie"
+    ],
+    "optional": false
+   },
+   {
+    "text": "1 cățel usturoi",
+    "keys": [
+     "Usturoi"
+    ],
+    "optional": false
+   },
+   {
+    "text": "30 ml ulei de măsline",
+    "keys": [
+     "Ulei de măsline"
+    ],
+    "optional": false
+   },
+   {
+    "text": "30–60 ml apă",
+    "keys": [
+     "Apă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "sare",
+    "keys": [
+     "Sare"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Susan (tahini).",
+  "diet": {
+   "gluten": "nu în rețeta de bază",
+   "lactose": "nu",
+   "vegan": "da",
+   "vegetarian": "da"
+  },
+  "flags": {
+   "glutenFree": true,
+   "lactoseFree": true,
+   "vegan": true,
+   "vegetarian": true
+  },
+  "benefits": "Năutul oferă fibre, proteine vegetale, fier și folat; tahini conține grăsimi nesaturate.",
+  "steps": [
+   "Mixează năutul cu tahini, lămâie, usturoi și ulei.",
+   "Adaugă apă treptat până obții textura dorită."
+  ]
+ },
+ {
+  "id": 30,
+  "name": "Biluțe de brânză",
+  "category": "Gustări și aperitive",
+  "servings": "4 porții",
+  "time": "30 min",
+  "ingredients": [
+   {
+    "text": "200 g brânză",
+    "keys": [
+     "Brânză"
+    ],
+    "optional": false
+   },
+   {
+    "text": "1 ou (50 g)",
+    "keys": [
+     "Ouă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "60 g făină",
+    "keys": [
+     "Făină de grâu"
+    ],
+    "optional": false
+   },
+   {
+    "text": "80 g pesmet",
+    "keys": [
+     "Pesmet"
+    ],
+    "optional": false
+   },
+   {
+    "text": "20 ml ulei pentru tavă sau prăjire",
+    "keys": [
+     "Ulei"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Lapte, ouă și gluten; pesmetul poate conține soia sau susan.",
+  "diet": {
+   "gluten": "da",
+   "lactose": "depinde de brânză",
+   "vegan": "nu",
+   "vegetarian": "da, dacă brânza folosește cheag vegetarian"
+  },
+  "flags": {
+   "glutenFree": false,
+   "lactoseFree": false,
+   "vegan": false,
+   "vegetarian": true
+  },
+  "benefits": "Brânza contribuie cu proteine și calciu.",
+  "steps": [
+   "Amestecă brânza cu oul și făina.",
+   "Formează biluțe, trece-le prin pesmet și coace la 200°C circa 15–20 min sau gătește-le în tigaie până se rumenesc."
+  ]
+ },
+ {
+  "id": 31,
+  "name": "Rulouri de legume",
+  "category": "Gustări și aperitive",
+  "servings": "4 porții",
+  "time": "30 min",
+  "ingredients": [
+   {
+    "text": "8 foi de orez (80 g)",
+    "keys": [
+     "Foi de orez"
+    ],
+    "optional": false
+   },
+   {
+    "text": "150 g morcov",
+    "keys": [
+     "Morcovi"
+    ],
+    "optional": false
+   },
+   {
+    "text": "150 g varză",
+    "keys": [
+     "Varză"
+    ],
+    "optional": false
+   },
+   {
+    "text": "100 g ardei",
+    "keys": [
+     "Ardei"
+    ],
+    "optional": false
+   },
+   {
+    "text": "100 g ciuperci",
+    "keys": [
+     "Ciuperci"
+    ],
+    "optional": false
+   },
+   {
+    "text": "10 ml ulei",
+    "keys": [
+     "Ulei"
+    ],
+    "optional": false
+   },
+   {
+    "text": "sos de soia fără gluten (opțional)",
+    "keys": [
+     "Sos de soia"
+    ],
+    "optional": true
+   }
+  ],
+  "allergens": "Soia dacă se folosește sos de soia; susan dacă se adaugă ulei/sos de susan.",
+  "diet": {
+   "gluten": "nu, cu foi de orez și sos tamari certificat fără gluten",
+   "lactose": "nu",
+   "vegan": "da, cu ingrediente vegetale",
+   "vegetarian": "da"
+  },
+  "flags": {
+   "glutenFree": true,
+   "lactoseFree": true,
+   "vegan": true,
+   "vegetarian": true
+  },
+  "benefits": "Legumele furnizează fibre, vitamine și antioxidanți.",
+  "steps": [
+   "Taie legumele subțire și gătește-le scurt în tigaie.",
+   "Înmoaie foile de orez conform ambalajului, umple și rulează.",
+   "Servește proaspete sau rumenește ușor."
+  ]
+ },
+ {
+  "id": 32,
+  "name": "Nachos cu sos salsa și brânză",
+  "category": "Gustări și aperitive",
+  "servings": "4 porții",
+  "time": "20 min",
+  "ingredients": [
+   {
+    "text": "150 g chipsuri tortilla din porumb",
+    "keys": [
+     "Chipsuri tortilla din porumb"
+    ],
+    "optional": false
+   },
+   {
+    "text": "150 g roșii",
+    "keys": [
+     "Roșii"
+    ],
+    "optional": false
+   },
+   {
+    "text": "50 g ceapă",
+    "keys": [
+     "Ceapă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "100 g ardei",
+    "keys": [
+     "Ardei"
+    ],
+    "optional": false
+   },
+   {
+    "text": "120 g cheddar",
+    "keys": [
+     "Brânză cheddar"
+    ],
+    "optional": false
+   },
+   {
+    "text": "10 ml suc de lime",
+    "keys": [
+     "Lime"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Lapte din cheddar; verifică chipsurile și condimentele pentru soia sau urme.",
+  "diet": {
+   "gluten": "nu în chipsurile simple din porumb, dar verifică eticheta",
+   "lactose": "da, în funcție de brânză",
+   "vegan": "nu, cu brânză",
+   "vegetarian": "da, dacă brânza are cheag vegetarian"
+  },
+  "flags": {
+   "glutenFree": true,
+   "lactoseFree": false,
+   "vegan": false,
+   "vegetarian": true
+  },
+  "benefits": "Roșiile și ardeiul aduc vitamina C; brânza furnizează calciu și proteine.",
+  "steps": [
+   "Taie roșiile, ceapa și ardeiul și amestecă cu lime.",
+   "Așază chipsurile într-un vas, adaugă cheddar și încălzește până se topește.",
+   "Servește cu salsa."
+  ]
+ },
+ {
+  "id": 33,
+  "name": "Pizza Margherita",
+  "category": "Pizza și produse de panificație",
+  "servings": "2 porții",
+  "time": "35 min",
+  "ingredients": [
+   {
+    "text": "250 g făină de grâu",
+    "keys": [
+     "Făină de grâu"
+    ],
+    "optional": false
+   },
+   {
+    "text": "160 ml apă",
+    "keys": [
+     "Apă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "4 g drojdie uscată",
+    "keys": [
+     "Drojdie"
+    ],
+    "optional": false
+   },
+   {
+    "text": "5 ml ulei",
+    "keys": [
+     "Ulei"
+    ],
+    "optional": false
+   },
+   {
+    "text": "150 g sos de roșii",
+    "keys": [
+     "Sos de roșii"
+    ],
+    "optional": false
+   },
+   {
+    "text": "150 g mozzarella",
+    "keys": [
+     "Brânză mozzarella"
+    ],
+    "optional": false
+   },
+   {
+    "text": "5 g busuioc",
+    "keys": [
+     "Busuioc"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Gluten și lapte; verifică mozzarella și sosul.",
+  "diet": {
+   "gluten": "da",
+   "lactose": "poate exista, în funcție de mozzarella",
+   "vegan": "nu",
+   "vegetarian": "da, dacă mozzarella are cheag vegetarian"
+  },
+  "flags": {
+   "glutenFree": false,
+   "lactoseFree": false,
+   "vegan": false,
+   "vegetarian": true
+  },
+  "benefits": "Roșiile conțin licopen; mozzarella contribuie cu proteine și calciu.",
+  "steps": [
+   "Amestecă făina, apa, drojdia, uleiul și puțină sare.",
+   "Lasă aluatul la dospit.",
+   "Întinde, adaugă sosul și mozzarella.",
+   "Coace la temperatură mare, 230°C, 10–15 min.",
+   "Adaugă busuioc."
+  ]
+ },
+ {
+  "id": 34,
+  "name": "Pizza cu pui",
+  "category": "Pizza și produse de panificație",
+  "servings": "2 porții",
+  "time": "40 min",
+  "ingredients": [
+   {
+    "text": "250 g făină de grâu",
+    "keys": [
+     "Făină de grâu"
+    ],
+    "optional": false
+   },
+   {
+    "text": "160 ml apă",
+    "keys": [
+     "Apă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "4 g drojdie",
+    "keys": [
+     "Drojdie"
+    ],
+    "optional": false
+   },
+   {
+    "text": "5 ml ulei",
+    "keys": [
+     "Ulei"
+    ],
+    "optional": false
+   },
+   {
+    "text": "120 g sos de roșii",
+    "keys": [
+     "Sos de roșii"
+    ],
+    "optional": false
+   },
+   {
+    "text": "150 g piept de pui gătit",
+    "keys": [
+     "Piept de pui"
+    ],
+    "optional": false
+   },
+   {
+    "text": "120 g mozzarella",
+    "keys": [
+     "Brânză mozzarella"
+    ],
+    "optional": false
+   },
+   {
+    "text": "50 g ardei",
+    "keys": [
+     "Ardei"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Gluten și lapte; verifică sosul și condimentele.",
+  "diet": {
+   "gluten": "da",
+   "lactose": "posibilă, în funcție de mozzarella",
+   "vegan": "nu",
+   "vegetarian": "nu"
+  },
+  "flags": {
+   "glutenFree": false,
+   "lactoseFree": false,
+   "vegan": false,
+   "vegetarian": false
+  },
+  "benefits": "Puiul oferă proteine; mozzarella aduce calciu; ardeiul și roșiile furnizează vitamine.",
+  "steps": [
+   "Prepară aluatul și lasă-l la dospit.",
+   "Întinde, adaugă sos, pui gătit, ardei și mozzarella.",
+   "Coace la 230°C timp de 10–15 min."
+  ]
+ },
+ {
+  "id": 35,
+  "name": "Focaccia cu rozmarin",
+  "category": "Pizza și produse de panificație",
+  "servings": "6 porții",
+  "time": "35 min + dospire",
+  "ingredients": [
+   {
+    "text": "400 g făină de grâu",
+    "keys": [
+     "Făină de grâu"
+    ],
+    "optional": false
+   },
+   {
+    "text": "300 ml apă",
+    "keys": [
+     "Apă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "7 g drojdie uscată",
+    "keys": [
+     "Drojdie"
+    ],
+    "optional": false
+   },
+   {
+    "text": "30 ml ulei de măsline",
+    "keys": [
+     "Ulei de măsline"
+    ],
+    "optional": false
+   },
+   {
+    "text": "5 g sare",
+    "keys": [
+     "Sare"
+    ],
+    "optional": false
+   },
+   {
+    "text": "5 g rozmarin",
+    "keys": [
+     "Rozmarin"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Gluten.",
+  "diet": {
+   "gluten": "da",
+   "lactose": "nu",
+   "vegan": "da",
+   "vegetarian": "da"
+  },
+  "flags": {
+   "glutenFree": false,
+   "lactoseFree": true,
+   "vegan": true,
+   "vegetarian": true
+  },
+  "benefits": "Carbohidrați pentru energie și grăsimi nesaturate din uleiul de măsline.",
+  "steps": [
+   "Amestecă făina, apa, drojdia și sarea.",
+   "Lasă la dospit până își dublează volumul.",
+   "Întinde în tavă, fă adânciturii cu degetele, adaugă ulei și rozmarin.",
+   "Coace la 220°C circa 20–25 min."
+  ]
+ },
+ {
+  "id": 36,
+  "name": "Pâine de casă",
+  "category": "Pizza și produse de panificație",
+  "servings": "1 pâine",
+  "time": "45 min + dospire",
+  "ingredients": [
+   {
+    "text": "500 g făină de grâu",
+    "keys": [
+     "Făină de grâu"
+    ],
+    "optional": false
+   },
+   {
+    "text": "330 ml apă",
+    "keys": [
+     "Apă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "7 g drojdie uscată",
+    "keys": [
+     "Drojdie"
+    ],
+    "optional": false
+   },
+   {
+    "text": "10 g sare",
+    "keys": [
+     "Sare"
+    ],
+    "optional": false
+   },
+   {
+    "text": "10 ml ulei (opțional)",
+    "keys": [
+     "Ulei"
+    ],
+    "optional": true
+   }
+  ],
+  "allergens": "Gluten.",
+  "diet": {
+   "gluten": "da",
+   "lactose": "nu",
+   "vegan": "da, în varianta simplă",
+   "vegetarian": "da"
+  },
+  "flags": {
+   "glutenFree": false,
+   "lactoseFree": true,
+   "vegan": true,
+   "vegetarian": true
+  },
+  "benefits": "Furnizează carbohidrați; făina integrală crește aportul de fibre și minerale.",
+  "steps": [
+   "Dizolvă drojdia în apă, adaugă făina și sarea.",
+   "Frământă, lasă la dospit, modelează și mai lasă 20–30 min.",
+   "Coace la 220°C aproximativ 30–35 min."
+  ]
+ },
+ {
+  "id": 37,
+  "name": "Plăcintă cu brânză",
+  "category": "Pizza și produse de panificație",
+  "servings": "8 porții",
+  "time": "55 min",
+  "ingredients": [
+   {
+    "text": "400 g foi de plăcintă",
+    "keys": [
+     "Foi de plăcintă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "400 g brânză de vaci",
+    "keys": [
+     "Brânză de vaci"
+    ],
+    "optional": false
+   },
+   {
+    "text": "2 ouă (100 g)",
+    "keys": [
+     "Ouă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "150 g iaurt",
+    "keys": [
+     "Iaurt"
+    ],
+    "optional": false
+   },
+   {
+    "text": "50 g unt",
+    "keys": [
+     "Unt"
+    ],
+    "optional": false
+   },
+   {
+    "text": "10 g zahăr (opțional)",
+    "keys": [
+     "Zahăr"
+    ],
+    "optional": true
+   }
+  ],
+  "allergens": "Gluten, lapte și ouă.",
+  "diet": {
+   "gluten": "da, cu foi obișnuite",
+   "lactose": "de obicei da",
+   "vegan": "nu",
+   "vegetarian": "da"
+  },
+  "flags": {
+   "glutenFree": false,
+   "lactoseFree": false,
+   "vegan": false,
+   "vegetarian": true
+  },
+  "benefits": "Brânza și iaurtul furnizează proteine și calciu; ouăle aduc proteine și colină.",
+  "steps": [
+   "Amestecă brânza cu ouăle și iaurtul.",
+   "Așază foile unse cu unt într-o tavă, pune umplutura și acoperă cu foi.",
+   "Coace la 180°C circa 35–40 min."
+  ]
+ },
+ {
+  "id": 38,
+  "name": "Smoothie de banane",
+  "category": "Băuturi și smoothie-uri",
+  "servings": "2 porții",
+  "time": "5 min",
+  "ingredients": [
+   {
+    "text": "2 banane (240 g pulpă)",
+    "keys": [
+     "Banane"
+    ],
+    "optional": false
+   },
+   {
+    "text": "300 ml lapte",
+    "keys": [
+     "Lapte"
+    ],
+    "optional": false
+   },
+   {
+    "text": "10 g miere (opțional)",
+    "keys": [
+     "Miere"
+    ],
+    "optional": true
+   },
+   {
+    "text": "4–5 cuburi de gheață",
+    "keys": [
+     "Cuburi de gheață"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Lapte; mierea nu este potrivită pentru vegani.",
+  "diet": {
+   "gluten": "nu",
+   "lactose": "da, cu lapte obișnuit",
+   "vegan": "nu în varianta cu lapte și miere",
+   "vegetarian": "da"
+  },
+  "flags": {
+   "glutenFree": true,
+   "lactoseFree": false,
+   "vegan": false,
+   "vegetarian": true
+  },
+  "benefits": "Banana oferă potasiu și vitamina B6; laptele furnizează proteine și calciu.",
+  "steps": [
+   "Mixează banana cu laptele și gheața.",
+   "Adaugă miere opțional.",
+   "Pentru variantă fără lactoză folosește lapte fără lactoză; pentru vegană, băutură vegetală și fără miere."
+  ]
+ },
+ {
+  "id": 39,
+  "name": "Smoothie de fructe",
+  "category": "Băuturi și smoothie-uri",
+  "servings": "2 porții",
+  "time": "5 min",
+  "ingredients": [
+   {
+    "text": "150 g căpșuni",
+    "keys": [
+     "Căpșuni"
+    ],
+    "optional": false
+   },
+   {
+    "text": "100 g afine",
+    "keys": [
+     "Afine"
+    ],
+    "optional": false
+   },
+   {
+    "text": "1 banană (120 g)",
+    "keys": [
+     "Banane"
+    ],
+    "optional": false
+   },
+   {
+    "text": "200 g iaurt",
+    "keys": [
+     "Iaurt"
+    ],
+    "optional": false
+   },
+   {
+    "text": "50 ml apă",
+    "keys": [
+     "Apă"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Lapte din iaurt; verifică eventualele adaosuri.",
+  "diet": {
+   "gluten": "nu în rețeta de bază",
+   "lactose": "de obicei da",
+   "vegan": "nu cu iaurt obișnuit",
+   "vegetarian": "da"
+  },
+  "flags": {
+   "glutenFree": true,
+   "lactoseFree": false,
+   "vegan": false,
+   "vegetarian": true
+  },
+  "benefits": "Fructele conțin fibre, vitamina C și antioxidanți; iaurtul aduce proteine și calciu.",
+  "steps": [
+   "Mixează fructele cu iaurtul și apa până devine cremos.",
+   "Pentru variantă vegană, folosește iaurt vegetal."
+  ]
+ },
+ {
+  "id": 40,
+  "name": "Suc natural de portocale și morcovi",
+  "category": "Băuturi și smoothie-uri",
+  "servings": "2 porții",
+  "time": "10 min",
+  "ingredients": [
+   {
+    "text": "3 portocale (450 g)",
+    "keys": [
+     "Portocale"
+    ],
+    "optional": false
+   },
+   {
+    "text": "2 morcovi (150 g)",
+    "keys": [
+     "Morcovi"
+    ],
+    "optional": false
+   },
+   {
+    "text": "100 ml apă, dacă este necesar",
+    "keys": [
+     "Apă"
+    ],
+    "optional": true
+   }
+  ],
+  "allergens": "În mod obișnuit, niciunul dintre cei 14 alergeni majori; verifică ingredientele suplimentare.",
+  "diet": {
+   "gluten": "nu",
+   "lactose": "nu",
+   "vegan": "da",
+   "vegetarian": "da"
+  },
+  "flags": {
+   "glutenFree": true,
+   "lactoseFree": true,
+   "vegan": true,
+   "vegetarian": true
+  },
+  "benefits": "Portocalele oferă vitamina C; morcovii conțin beta-caroten. Sucul are mai puține fibre decât fructele întregi.",
+  "steps": [
+   "Spală și curăță ingredientele.",
+   "Stoarce portocalele și pasează morcovii cu puțină apă sau folosește un storcător.",
+   "Consumă proaspăt."
+  ]
+ },
+ {
+  "id": 41,
+  "name": "Milkshake",
+  "category": "Băuturi și smoothie-uri",
+  "servings": "2 porții",
+  "time": "5 min",
+  "ingredients": [
+   {
+    "text": "300 ml lapte",
+    "keys": [
+     "Lapte"
+    ],
+    "optional": false
+   },
+   {
+    "text": "200 g înghețată de vanilie",
+    "keys": [
+     "Înghețată de vanilie"
+    ],
+    "optional": false
+   },
+   {
+    "text": "150 g căpșuni sau banană",
+    "keys": [
+     "Căpșuni",
+     "Banane"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "Lapte; înghețata poate conține ouă, soia sau nuci.",
+  "diet": {
+   "gluten": "de obicei nu, dar verifică înghețata",
+   "lactose": "da",
+   "vegan": "nu",
+   "vegetarian": "de obicei da"
+  },
+  "flags": {
+   "glutenFree": false,
+   "lactoseFree": false,
+   "vegan": false,
+   "vegetarian": true
+  },
+  "benefits": "Lapte și înghețată furnizează calciu și proteine; fructele aduc vitamine.",
+  "steps": [
+   "Mixează laptele, înghețata și fructele până obții o băutură cremoasă.",
+   "Verifică eticheta înghețatei pentru alergeni."
+  ]
+ },
+ {
+  "id": 42,
+  "name": "Smoothie verde",
+  "category": "Băuturi și smoothie-uri",
+  "servings": "2 porții",
+  "time": "5 min",
+  "ingredients": [
+   {
+    "text": "60 g spanac",
+    "keys": [
+     "Spanac"
+    ],
+    "optional": false
+   },
+   {
+    "text": "1 măr (150 g)",
+    "keys": [
+     "Mere"
+    ],
+    "optional": false
+   },
+   {
+    "text": "1 banană (120 g)",
+    "keys": [
+     "Banane"
+    ],
+    "optional": false
+   },
+   {
+    "text": "250 ml apă",
+    "keys": [
+     "Apă"
+    ],
+    "optional": false
+   },
+   {
+    "text": "10 ml suc de lămâie",
+    "keys": [
+     "Lămâi / suc de lămâie"
+    ],
+    "optional": false
+   }
+  ],
+  "allergens": "În rețeta de bază nu sunt incluși alergenii majori; verifică adaosurile.",
+  "diet": {
+   "gluten": "nu",
+   "lactose": "nu",
+   "vegan": "da",
+   "vegetarian": "da"
+  },
+  "flags": {
+   "glutenFree": true,
+   "lactoseFree": true,
+   "vegan": true,
+   "vegetarian": true
+  },
+  "benefits": "Spanacul oferă folat și vitamina K; mărul și banana aduc fibre și potasiu.",
+  "steps": [
+   "Spală spanacul și fructele.",
+   "Taie mărul și banana, apoi mixează totul cu apa și sucul de lămâie."
+  ]
+ }
+]

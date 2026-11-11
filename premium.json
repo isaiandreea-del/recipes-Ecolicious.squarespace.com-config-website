@@ -1,0 +1,1725 @@
+{
+ "1": {
+  "protein_g": 10.7,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina C (fructe)",
+   "Vitamina B12",
+   "Vitamina B2",
+   "Colină"
+  ],
+  "substitutions": {
+   "Făină de grâu": [
+    "făină integrală",
+    "făină fără gluten (mix de orez/porumb)",
+    "făină de ovăz (pentru clătite și brioșe)"
+   ],
+   "Lapte": [
+    "băutură vegetală (soia, ovăz, migdale)",
+    "lapte fără lactoză",
+    "apă + puțin iaurt (la aluaturi)"
+   ],
+   "Ouă": [
+    "1 ou = 1 banană pisată (deserturi)",
+    "1 ou = 3 linguri de aquafaba (lichidul din năut)",
+    "1 ou = 1 lingură de semințe de in + 3 linguri de apă (aluaturi)"
+   ],
+   "Zahăr": [
+    "miere (cu ~25% mai puțină cantitate)",
+    "sirop de arțar",
+    "îndulcitor (stevia/eritritol)"
+   ],
+   "Ulei": [
+    "ulei de floarea-soarelui",
+    "ulei de măsline",
+    "ulei de rapiță"
+   ],
+   "Fructe proaspete (în funcție de sezon)": [
+    "fructe congelate",
+    "fructe la conservă (fără sirop)",
+    "orice fruct de sezon"
+   ]
+  }
+ },
+ "2": {
+  "protein_g": 6.0,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina A (unt)",
+   "Vitamina B12",
+   "Colină"
+  ],
+  "substitutions": {
+   "Ciocolată neagră": [
+    "ciocolată cu lapte (mai puțin zahăr)",
+    "cacao + puțin unt",
+    "chipsuri de ciocolată"
+   ],
+   "Unt": [
+    "ulei de măsline (75% din cantitate)",
+    "margarină",
+    "ulei de cocos (pentru deserturi)"
+   ],
+   "Zahăr": [
+    "miere (cu ~25% mai puțină cantitate)",
+    "sirop de arțar",
+    "îndulcitor (stevia/eritritol)"
+   ],
+   "Ouă": [
+    "1 ou = 1 banană pisată (deserturi)",
+    "1 ou = 3 linguri de aquafaba (lichidul din năut)",
+    "1 ou = 1 lingură de semințe de in + 3 linguri de apă (aluaturi)"
+   ],
+   "Făină de grâu": [
+    "făină integrală",
+    "făină fără gluten (mix de orez/porumb)",
+    "făină de ovăz (pentru clătite și brioșe)"
+   ],
+   "Cacao": [
+    "ciocolată neagră topită (reduce zahărul)",
+    "carob"
+   ]
+  }
+ },
+ "3": {
+  "protein_g": 8.1,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina A",
+   "Vitamina B12",
+   "Vitamina C (fructe)",
+   "Calciu"
+  ],
+  "substitutions": {
+   "Biscuiți": [
+    "pișcoturi",
+    "fulgi de ovăz + unt",
+    "biscuiți digestivi"
+   ],
+   "Unt": [
+    "ulei de măsline (75% din cantitate)",
+    "margarină",
+    "ulei de cocos (pentru deserturi)"
+   ],
+   "Cremă de brânză": [
+    "mascarpone",
+    "brânză de vaci mixată",
+    "iaurt grecesc strecurat"
+   ],
+   "Zahăr": [
+    "miere (cu ~25% mai puțină cantitate)",
+    "sirop de arțar",
+    "îndulcitor (stevia/eritritol)"
+   ],
+   "Ouă": [
+    "1 ou = 1 banană pisată (deserturi)",
+    "1 ou = 3 linguri de aquafaba (lichidul din năut)",
+    "1 ou = 1 lingură de semințe de in + 3 linguri de apă (aluaturi)"
+   ],
+   "Iaurt": [
+    "iaurt vegetal",
+    "smântână sau kefir",
+    "brânză de vaci amestecată cu puțin lapte"
+   ],
+   "Fructe proaspete (în funcție de sezon)": [
+    "fructe congelate",
+    "fructe la conservă (fără sirop)",
+    "orice fruct de sezon"
+   ]
+  }
+ },
+ "4": {
+  "protein_g": 7.2,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina A",
+   "Vitamina B12",
+   "Vitamina B2"
+  ],
+  "substitutions": {
+   "Pișcoturi": [
+    "biscuiți simpli",
+    "felii de pandișpan",
+    "biscuiți fără gluten"
+   ],
+   "Mascarpone": [
+    "cremă de brânză",
+    "ricotta + smântână dulce",
+    "iaurt grecesc strecurat"
+   ],
+   "Ouă": [
+    "1 ou = 1 banană pisată (deserturi)",
+    "1 ou = 3 linguri de aquafaba (lichidul din năut)",
+    "1 ou = 1 lingură de semințe de in + 3 linguri de apă (aluaturi)"
+   ],
+   "Zahăr": [
+    "miere (cu ~25% mai puțină cantitate)",
+    "sirop de arțar",
+    "îndulcitor (stevia/eritritol)"
+   ],
+   "Cafea": [
+    "cafea decofeinizată",
+    "cacao caldă",
+    "ceai negru tare"
+   ],
+   "Cacao": [
+    "ciocolată neagră topită (reduce zahărul)",
+    "carob"
+   ]
+  }
+ },
+ "5": {
+  "protein_g": 3.2,
+  "per": "bucată",
+  "vitamins": [
+   "Vitamina C (afine)",
+   "Vitamina K",
+   "Vitamina A"
+  ],
+  "substitutions": {
+   "Făină de grâu": [
+    "făină integrală",
+    "făină fără gluten (mix de orez/porumb)",
+    "făină de ovăz (pentru clătite și brioșe)"
+   ],
+   "Lapte": [
+    "băutură vegetală (soia, ovăz, migdale)",
+    "lapte fără lactoză",
+    "apă + puțin iaurt (la aluaturi)"
+   ],
+   "Ouă": [
+    "1 ou = 1 banană pisată (deserturi)",
+    "1 ou = 3 linguri de aquafaba (lichidul din năut)",
+    "1 ou = 1 lingură de semințe de in + 3 linguri de apă (aluaturi)"
+   ],
+   "Zahăr": [
+    "miere (cu ~25% mai puțină cantitate)",
+    "sirop de arțar",
+    "îndulcitor (stevia/eritritol)"
+   ],
+   "Unt": [
+    "ulei de măsline (75% din cantitate)",
+    "margarină",
+    "ulei de cocos (pentru deserturi)"
+   ],
+   "Afine": [
+    "zmeură",
+    "mure",
+    "fructe de pădure congelate"
+   ],
+   "Praf de copt": [
+    "1/4 lingură bicarbonat + 1/2 lingură lămâie/oțet pentru fiecare lingură"
+   ]
+  }
+ },
+ "6": {
+  "protein_g": 5.4,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina C (fructe)",
+   "Vitamina A",
+   "Calciu"
+  ],
+  "substitutions": {
+   "Făină de grâu": [
+    "făină integrală",
+    "făină fără gluten (mix de orez/porumb)",
+    "făină de ovăz (pentru clătite și brioșe)"
+   ],
+   "Unt": [
+    "ulei de măsline (75% din cantitate)",
+    "margarină",
+    "ulei de cocos (pentru deserturi)"
+   ],
+   "Ouă": [
+    "1 ou = 1 banană pisată (deserturi)",
+    "1 ou = 3 linguri de aquafaba (lichidul din năut)",
+    "1 ou = 1 lingură de semințe de in + 3 linguri de apă (aluaturi)"
+   ],
+   "Zahăr": [
+    "miere (cu ~25% mai puțină cantitate)",
+    "sirop de arțar",
+    "îndulcitor (stevia/eritritol)"
+   ],
+   "Lapte": [
+    "băutură vegetală (soia, ovăz, migdale)",
+    "lapte fără lactoză",
+    "apă + puțin iaurt (la aluaturi)"
+   ],
+   "Amidon": [
+    "făină (dublu)",
+    "amidon de porumb",
+    "gris"
+   ],
+   "Fructe proaspete (în funcție de sezon)": [
+    "fructe congelate",
+    "fructe la conservă (fără sirop)",
+    "orice fruct de sezon"
+   ],
+   "Vanilie": [
+    "zahăr vanilat",
+    "coajă de lămâie rasă",
+    "scorțișoară"
+   ]
+  }
+ },
+ "7": {
+  "protein_g": 22.1,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina B12",
+   "Vitamina B1",
+   "Vitamina D (ou)",
+   "Calciu"
+  ],
+  "substitutions": {
+   "Paste / spaghetti": [
+    "paste integrale",
+    "paste fără gluten",
+    "orez sau tăiței de orez"
+   ],
+   "Guanciale": [
+    "pancetta",
+    "bacon",
+    "șuncă afumată"
+   ],
+   "Ouă": [
+    "1 ou = 1 banană pisată (deserturi)",
+    "1 ou = 3 linguri de aquafaba (lichidul din năut)",
+    "1 ou = 1 lingură de semințe de in + 3 linguri de apă (aluaturi)"
+   ],
+   "Brânză pecorino / parmezan": [
+    "grana padano",
+    "cașcaval ras (gust mai blând)",
+    "drojdie nutritivă (vegan)"
+   ]
+  }
+ },
+ "8": {
+  "protein_g": 32.5,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina B12",
+   "Vitamina A (morcov)",
+   "Vitamina C",
+   "Fier",
+   "Licopen"
+  ],
+  "substitutions": {
+   "Paste / spaghetti": [
+    "paste integrale",
+    "paste fără gluten",
+    "orez sau tăiței de orez"
+   ],
+   "Carne tocată": [
+    "carne tocată de curcan",
+    "linte sau ciuperci mărunțite (vegetarian)",
+    "soia texturată"
+   ],
+   "Roșii pasate": [
+    "sos de roșii",
+    "roșii la conservă (mixate)",
+    "pastă de tomate + apă"
+   ],
+   "Ceapă": [
+    "ceapă verde",
+    "praz",
+    "ceapă roșie"
+   ],
+   "Morcovi": [
+    "păstârnac",
+    "dovleac",
+    "țelină"
+   ],
+   "Țelină": [
+    "pătrunjel rădăcină",
+    "fenicul",
+    "păstârnac"
+   ],
+   "Ulei": [
+    "ulei de floarea-soarelui",
+    "ulei de măsline",
+    "ulei de rapiță"
+   ],
+   "Brânză pecorino / parmezan": [
+    "grana padano",
+    "cașcaval ras (gust mai blând)",
+    "drojdie nutritivă (vegan)"
+   ]
+  }
+ },
+ "9": {
+  "protein_g": 33.2,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina B12",
+   "Vitamina A",
+   "Calciu",
+   "Fier"
+  ],
+  "substitutions": {
+   "Foi de lasagna": [
+    "felii subțiri de dovlecei sau vinete",
+    "paste fără gluten",
+    "foi de plăcintă"
+   ],
+   "Carne tocată": [
+    "carne tocată de curcan",
+    "linte sau ciuperci mărunțite (vegetarian)",
+    "soia texturată"
+   ],
+   "Roșii pasate": [
+    "sos de roșii",
+    "roșii la conservă (mixate)",
+    "pastă de tomate + apă"
+   ],
+   "Ceapă": [
+    "ceapă verde",
+    "praz",
+    "ceapă roșie"
+   ],
+   "Lapte": [
+    "băutură vegetală (soia, ovăz, migdale)",
+    "lapte fără lactoză",
+    "apă + puțin iaurt (la aluaturi)"
+   ],
+   "Unt": [
+    "ulei de măsline (75% din cantitate)",
+    "margarină",
+    "ulei de cocos (pentru deserturi)"
+   ],
+   "Făină de grâu": [
+    "făină integrală",
+    "făină fără gluten (mix de orez/porumb)",
+    "făină de ovăz (pentru clătite și brioșe)"
+   ],
+   "Brânză mozzarella": [
+    "cașcaval",
+    "brânză de vaci (în salate)",
+    "brânză vegană"
+   ],
+   "Brânză pecorino / parmezan": [
+    "grana padano",
+    "cașcaval ras (gust mai blând)",
+    "drojdie nutritivă (vegan)"
+   ]
+  }
+ },
+ "10": {
+  "protein_g": 33.1,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina B6",
+   "Vitamina B12",
+   "Niacina (B3)",
+   "Vitamina A",
+   "Vitamina C"
+  ],
+  "substitutions": {
+   "Piept de pui": [
+    "piept de curcan",
+    "pește alb",
+    "tofu sau ciuperci (vegetarian)"
+   ],
+   "Orez": [
+    "quinoa",
+    "bulgur",
+    "paste mici (orzo)"
+   ],
+   "Ardei": [
+    "dovlecel",
+    "ardei capia",
+    "castraveți (în preparate reci)"
+   ],
+   "Morcovi": [
+    "păstârnac",
+    "dovleac",
+    "țelină"
+   ],
+   "Ceapă": [
+    "ceapă verde",
+    "praz",
+    "ceapă roșie"
+   ],
+   "Ulei": [
+    "ulei de floarea-soarelui",
+    "ulei de măsline",
+    "ulei de rapiță"
+   ],
+   "Supă": [
+    "apă + cub de legume",
+    "apă + condiment de legume",
+    "apă + puțină sare"
+   ]
+  }
+ },
+ "11": {
+  "protein_g": 11.8,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina C",
+   "Vitamina B6",
+   "Potasiu",
+   "Calciu"
+  ],
+  "substitutions": {
+   "Cartofi": [
+    "cartofi dulci",
+    "dovlecel",
+    "conopidă (în supe și gratinuri)"
+   ],
+   "Smântână pentru gătit": [
+    "lapte + puțin amidon",
+    "iaurt (adaugă la final, fără fierbere)",
+    "lapte de cocos"
+   ],
+   "Brânză": [
+    "telemea",
+    "brânză de vaci (în umpluturi)",
+    "cașcaval"
+   ],
+   "Unt": [
+    "ulei de măsline (75% din cantitate)",
+    "margarină",
+    "ulei de cocos (pentru deserturi)"
+   ],
+   "Usturoi": [
+    "usturoi pudră (1/4 lingură pentru 1 cățel)",
+    "ceapă verde",
+    "praz"
+   ]
+  }
+ },
+ "12": {
+  "protein_g": 43.2,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina B12",
+   "Niacina (B3)",
+   "Vitamina B6"
+  ],
+  "substitutions": {
+   "Piept de pui": [
+    "piept de curcan",
+    "pește alb",
+    "tofu sau ciuperci (vegetarian)"
+   ],
+   "Ouă": [
+    "1 ou = 1 banană pisată (deserturi)",
+    "1 ou = 3 linguri de aquafaba (lichidul din năut)",
+    "1 ou = 1 lingură de semințe de in + 3 linguri de apă (aluaturi)"
+   ],
+   "Făină de grâu": [
+    "făină integrală",
+    "făină fără gluten (mix de orez/porumb)",
+    "făină de ovăz (pentru clătite și brioșe)"
+   ],
+   "Pesmet": [
+    "fulgi de ovăz mărunțiți",
+    "făină de porumb",
+    "cornflakes zdrobiți"
+   ],
+   "Ulei": [
+    "ulei de floarea-soarelui",
+    "ulei de măsline",
+    "ulei de rapiță"
+   ]
+  }
+ },
+ "13": {
+  "protein_g": 11.4,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina B12",
+   "Vitamina A (morcov)",
+   "Vitamina C (ardei)",
+   "Fier"
+  ],
+  "substitutions": {
+   "Carne tocată": [
+    "carne tocată de curcan",
+    "linte sau ciuperci mărunțite (vegetarian)",
+    "soia texturată"
+   ],
+   "Orez": [
+    "quinoa",
+    "bulgur",
+    "paste mici (orzo)"
+   ],
+   "Ouă": [
+    "1 ou = 1 banană pisată (deserturi)",
+    "1 ou = 3 linguri de aquafaba (lichidul din năut)",
+    "1 ou = 1 lingură de semințe de in + 3 linguri de apă (aluaturi)"
+   ],
+   "Morcovi": [
+    "păstârnac",
+    "dovleac",
+    "țelină"
+   ],
+   "Ceapă": [
+    "ceapă verde",
+    "praz",
+    "ceapă roșie"
+   ],
+   "Țelină": [
+    "pătrunjel rădăcină",
+    "fenicul",
+    "păstârnac"
+   ],
+   "Ardei": [
+    "dovlecel",
+    "ardei capia",
+    "castraveți (în preparate reci)"
+   ],
+   "Borș": [
+    "suc de lămâie + apă",
+    "oțet de mere + apă",
+    "zeamă de varză"
+   ],
+   "Verdeață": [
+    "pătrunjel",
+    "mărar",
+    "leuștean"
+   ]
+  }
+ },
+ "14": {
+  "protein_g": 19.2,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina A (morcov)",
+   "Vitamina B6",
+   "Niacina (B3)"
+  ],
+  "substitutions": {
+   "Carne de pui": [
+    "curcan",
+    "carne de vită (pentru ciorbe)",
+    "tofu sau năut (vegetarian)"
+   ],
+   "Tăiței": [
+    "paste mici",
+    "orez",
+    "tăiței de orez"
+   ],
+   "Morcovi": [
+    "păstârnac",
+    "dovleac",
+    "țelină"
+   ],
+   "Țelină": [
+    "pătrunjel rădăcină",
+    "fenicul",
+    "păstârnac"
+   ],
+   "Ceapă": [
+    "ceapă verde",
+    "praz",
+    "ceapă roșie"
+   ],
+   "Pătrunjel": [
+    "mărar",
+    "coriandru",
+    "busuioc"
+   ]
+  }
+ },
+ "15": {
+  "protein_g": 2.1,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina C",
+   "Vitamina A",
+   "Vitamina K",
+   "Potasiu"
+  ],
+  "substitutions": {
+   "Morcovi": [
+    "păstârnac",
+    "dovleac",
+    "țelină"
+   ],
+   "Cartofi": [
+    "cartofi dulci",
+    "dovlecel",
+    "conopidă (în supe și gratinuri)"
+   ],
+   "Ceapă": [
+    "ceapă verde",
+    "praz",
+    "ceapă roșie"
+   ],
+   "Ardei": [
+    "dovlecel",
+    "ardei capia",
+    "castraveți (în preparate reci)"
+   ],
+   "Roșii": [
+    "roșii la conservă",
+    "roșii pasate",
+    "ardei gras (în salate)"
+   ],
+   "Țelină": [
+    "pătrunjel rădăcină",
+    "fenicul",
+    "păstârnac"
+   ],
+   "Borș": [
+    "suc de lămâie + apă",
+    "oțet de mere + apă",
+    "zeamă de varză"
+   ],
+   "Ulei": [
+    "ulei de floarea-soarelui",
+    "ulei de măsline",
+    "ulei de rapiță"
+   ],
+   "Verdeață": [
+    "pătrunjel",
+    "mărar",
+    "leuștean"
+   ]
+  }
+ },
+ "16": {
+  "protein_g": 5.2,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina B2",
+   "Vitamina B3",
+   "Vitamina D (ciuperci)",
+   "Seleniu"
+  ],
+  "substitutions": {
+   "Ciuperci": [
+    "dovlecel",
+    "vinete",
+    "tofu"
+   ],
+   "Cartofi": [
+    "cartofi dulci",
+    "dovlecel",
+    "conopidă (în supe și gratinuri)"
+   ],
+   "Ceapă": [
+    "ceapă verde",
+    "praz",
+    "ceapă roșie"
+   ],
+   "Smântână pentru gătit": [
+    "lapte + puțin amidon",
+    "iaurt (adaugă la final, fără fierbere)",
+    "lapte de cocos"
+   ],
+   "Unt": [
+    "ulei de măsline (75% din cantitate)",
+    "margarină",
+    "ulei de cocos (pentru deserturi)"
+   ],
+   "Supă": [
+    "apă + cub de legume",
+    "apă + condiment de legume",
+    "apă + puțină sare"
+   ],
+   "Usturoi": [
+    "usturoi pudră (1/4 lingură pentru 1 cățel)",
+    "ceapă verde",
+    "praz"
+   ]
+  }
+ },
+ "17": {
+  "protein_g": 11.4,
+  "per": "porție",
+  "vitamins": [
+   "Folat (B9)",
+   "Vitamina A (morcov)",
+   "Vitamina C",
+   "Fier",
+   "Magneziu"
+  ],
+  "substitutions": {
+   "Fasole uscată": [
+    "fasole la conservă (scursă)",
+    "linte",
+    "năut"
+   ],
+   "Morcovi": [
+    "păstârnac",
+    "dovleac",
+    "țelină"
+   ],
+   "Ceapă": [
+    "ceapă verde",
+    "praz",
+    "ceapă roșie"
+   ],
+   "Ardei": [
+    "dovlecel",
+    "ardei capia",
+    "castraveți (în preparate reci)"
+   ],
+   "Roșii": [
+    "roșii la conservă",
+    "roșii pasate",
+    "ardei gras (în salate)"
+   ],
+   "Țelină": [
+    "pătrunjel rădăcină",
+    "fenicul",
+    "păstârnac"
+   ],
+   "Ulei": [
+    "ulei de floarea-soarelui",
+    "ulei de măsline",
+    "ulei de rapiță"
+   ],
+   "Verdeață": [
+    "pătrunjel",
+    "mărar",
+    "leuștean"
+   ]
+  }
+ },
+ "18": {
+  "protein_g": 10.7,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina C",
+   "Vitamina K",
+   "Vitamina B12 (feta)",
+   "Calciu"
+  ],
+  "substitutions": {
+   "Roșii": [
+    "roșii la conservă",
+    "roșii pasate",
+    "ardei gras (în salate)"
+   ],
+   "Castraveți": [
+    "dovlecel crud",
+    "ardei",
+    "țelină"
+   ],
+   "Brânză feta": [
+    "telemea",
+    "brânză de vaci sărată",
+    "brânză de capră"
+   ],
+   "Măsline": [
+    "capere",
+    "castraveți murați",
+    "ardei copt"
+   ],
+   "Ceapă roșie": [
+    "ceapă obișnuită",
+    "ceapă verde",
+    "șalotă"
+   ],
+   "Ulei de măsline": [
+    "ulei de floarea-soarelui",
+    "ulei de rapiță",
+    "ulei de avocado"
+   ],
+   "Oregano": [
+    "busuioc",
+    "cimbru",
+    "maghiran"
+   ]
+  }
+ },
+ "19": {
+  "protein_g": 38.5,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina K",
+   "Vitamina A",
+   "Vitamina B6",
+   "Niacina (B3)",
+   "Calciu"
+  ],
+  "substitutions": {
+   "Piept de pui": [
+    "piept de curcan",
+    "pește alb",
+    "tofu sau ciuperci (vegetarian)"
+   ],
+   "Salată romaine": [
+    "salată verde",
+    "spanac",
+    "rucola"
+   ],
+   "Crutoane": [
+    "pâine prăjită cuburi",
+    "fulgi de porumb zdrobiți",
+    "semințe de dovleac"
+   ],
+   "Brânză pecorino / parmezan": [
+    "grana padano",
+    "cașcaval ras (gust mai blând)",
+    "drojdie nutritivă (vegan)"
+   ],
+   "Sos Caesar": [
+    "iaurt + lămâie + usturoi + parmezan",
+    "maioneză ușoară + usturoi",
+    "sos de muștar și miere"
+   ]
+  }
+ },
+ "20": {
+  "protein_g": 23.1,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina D",
+   "Vitamina B12",
+   "Niacina (B3)",
+   "Vitamina C",
+   "Omega-3"
+  ],
+  "substitutions": {
+   "Ton": [
+    "somon la conservă",
+    "piept de pui fiert",
+    "năut"
+   ],
+   "Porumb": [
+    "mazăre",
+    "fasole boabe",
+    "ardei tăiat"
+   ],
+   "Roșii": [
+    "roșii la conservă",
+    "roșii pasate",
+    "ardei gras (în salate)"
+   ],
+   "Castraveți": [
+    "dovlecel crud",
+    "ardei",
+    "țelină"
+   ],
+   "Salată verde": [
+    "spanac",
+    "rucola",
+    "varză"
+   ],
+   "Ulei de măsline": [
+    "ulei de floarea-soarelui",
+    "ulei de rapiță",
+    "ulei de avocado"
+   ],
+   "Lămâi / suc de lămâie": [
+    "oțet de mere",
+    "suc de lime",
+    "oțet de vin alb (mai puțin)"
+   ]
+  }
+ },
+ "21": {
+  "protein_g": 2.8,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina E",
+   "Vitamina K",
+   "Folat (B9)",
+   "Vitamina C",
+   "Potasiu"
+  ],
+  "substitutions": {
+   "Avocado": [
+    "piure de năut",
+    "hummus",
+    "banană (în smoothie)"
+   ],
+   "Roșii": [
+    "roșii la conservă",
+    "roșii pasate",
+    "ardei gras (în salate)"
+   ],
+   "Ceapă roșie": [
+    "ceapă obișnuită",
+    "ceapă verde",
+    "șalotă"
+   ],
+   "Lămâi / suc de lămâie": [
+    "oțet de mere",
+    "suc de lime",
+    "oțet de vin alb (mai puțin)"
+   ],
+   "Ulei de măsline": [
+    "ulei de floarea-soarelui",
+    "ulei de rapiță",
+    "ulei de avocado"
+   ],
+   "Verdeață": [
+    "pătrunjel",
+    "mărar",
+    "leuștean"
+   ]
+  }
+ },
+ "22": {
+  "protein_g": 14.5,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina C",
+   "Vitamina K",
+   "Calciu",
+   "Vitamina B1"
+  ],
+  "substitutions": {
+   "Paste / spaghetti": [
+    "paste integrale",
+    "paste fără gluten",
+    "orez sau tăiței de orez"
+   ],
+   "Roșii cherry": [
+    "roșii obișnuite tăiate",
+    "roșii uscate",
+    "ardei gras"
+   ],
+   "Castraveți": [
+    "dovlecel crud",
+    "ardei",
+    "țelină"
+   ],
+   "Brânză mozzarella": [
+    "cașcaval",
+    "brânză de vaci (în salate)",
+    "brânză vegană"
+   ],
+   "Porumb": [
+    "mazăre",
+    "fasole boabe",
+    "ardei tăiat"
+   ],
+   "Ulei de măsline": [
+    "ulei de floarea-soarelui",
+    "ulei de rapiță",
+    "ulei de avocado"
+   ],
+   "Busuioc": [
+    "oregano",
+    "pătrunjel",
+    "spanac mărunțit"
+   ]
+  }
+ },
+ "23": {
+  "protein_g": 18.6,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina B12",
+   "Vitamina D",
+   "Vitamina B2",
+   "Colină",
+   "Vitamina C (roșii)"
+  ],
+  "substitutions": {
+   "Ouă": [
+    "1 ou = 1 banană pisată (deserturi)",
+    "1 ou = 3 linguri de aquafaba (lichidul din năut)",
+    "1 ou = 1 lingură de semințe de in + 3 linguri de apă (aluaturi)"
+   ],
+   "Lapte": [
+    "băutură vegetală (soia, ovăz, migdale)",
+    "lapte fără lactoză",
+    "apă + puțin iaurt (la aluaturi)"
+   ],
+   "Brânză": [
+    "telemea",
+    "brânză de vaci (în umpluturi)",
+    "cașcaval"
+   ],
+   "Ulei": [
+    "ulei de floarea-soarelui",
+    "ulei de măsline",
+    "ulei de rapiță"
+   ],
+   "Roșii": [
+    "roșii la conservă",
+    "roșii pasate",
+    "ardei gras (în salate)"
+   ]
+  }
+ },
+ "24": {
+  "protein_g": 11.4,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina E",
+   "Vitamina K",
+   "Folat (B9)",
+   "Vitamina B12",
+   "Vitamina D"
+  ],
+  "substitutions": {
+   "Pâine": [
+    "pâine integrală",
+    "pâine fără gluten",
+    "chifle sau lipii"
+   ],
+   "Avocado": [
+    "piure de năut",
+    "hummus",
+    "banană (în smoothie)"
+   ],
+   "Ouă": [
+    "1 ou = 1 banană pisată (deserturi)",
+    "1 ou = 3 linguri de aquafaba (lichidul din năut)",
+    "1 ou = 1 lingură de semințe de in + 3 linguri de apă (aluaturi)"
+   ],
+   "Lămâi / suc de lămâie": [
+    "oțet de mere",
+    "suc de lime",
+    "oțet de vin alb (mai puțin)"
+   ]
+  }
+ },
+ "25": {
+  "protein_g": 12.8,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina B1",
+   "Vitamina B6 (banană)",
+   "Vitamina C (fructe)",
+   "Fier",
+   "Magneziu"
+  ],
+  "substitutions": {
+   "Fulgi de ovăz": [
+    "fulgi de orez",
+    "musli",
+    "gris"
+   ],
+   "Lapte": [
+    "băutură vegetală (soia, ovăz, migdale)",
+    "lapte fără lactoză",
+    "apă + puțin iaurt (la aluaturi)"
+   ],
+   "Banane": [
+    "mango",
+    "măr copt",
+    "avocado (în smoothie)"
+   ],
+   "Fructe de pădure": [
+    "fructe de pădure congelate",
+    "afine",
+    "căpșuni"
+   ],
+   "Miere": [
+    "sirop de arțar",
+    "zahăr",
+    "sirop de agave"
+   ]
+  }
+ },
+ "26": {
+  "protein_g": 10.8,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina B12",
+   "Vitamina B2",
+   "Vitamina C (fructe)",
+   "Calciu"
+  ],
+  "substitutions": {
+   "Iaurt": [
+    "iaurt vegetal",
+    "smântână sau kefir",
+    "brânză de vaci amestecată cu puțin lapte"
+   ],
+   "Granola": [
+    "musli",
+    "fulgi de ovăz prăjiți cu miere",
+    "cornflakes și nuci"
+   ],
+   "Fructe de pădure": [
+    "fructe de pădure congelate",
+    "afine",
+    "căpșuni"
+   ],
+   "Miere": [
+    "sirop de arțar",
+    "zahăr",
+    "sirop de agave"
+   ]
+  }
+ },
+ "27": {
+  "protein_g": 23.5,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina B1",
+   "Vitamina B12",
+   "Calciu",
+   "Vitamina C"
+  ],
+  "substitutions": {
+   "Pâine": [
+    "pâine integrală",
+    "pâine fără gluten",
+    "chifle sau lipii"
+   ],
+   "Șuncă": [
+    "piept de pui fiert",
+    "pastramă de curcan",
+    "hummus sau avocado (vegetarian)"
+   ],
+   "Cașcaval": [
+    "gouda",
+    "mozzarella",
+    "brânză topită"
+   ],
+   "Roșii": [
+    "roșii la conservă",
+    "roșii pasate",
+    "ardei gras (în salate)"
+   ],
+   "Salată verde": [
+    "spanac",
+    "rucola",
+    "varză"
+   ],
+   "Muștar": [
+    "maioneză + puțin lămâie",
+    "sos de iaurt",
+    "hrean"
+   ]
+  }
+ },
+ "28": {
+  "protein_g": 6.3,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina C",
+   "Licopen",
+   "Vitamina K",
+   "Vitamina E (ulei de măsline)"
+  ],
+  "substitutions": {
+   "Baghetă": [
+    "pâine de casă",
+    "chifle",
+    "pâine integrală"
+   ],
+   "Roșii": [
+    "roșii la conservă",
+    "roșii pasate",
+    "ardei gras (în salate)"
+   ],
+   "Usturoi": [
+    "usturoi pudră (1/4 lingură pentru 1 cățel)",
+    "ceapă verde",
+    "praz"
+   ],
+   "Ulei de măsline": [
+    "ulei de floarea-soarelui",
+    "ulei de rapiță",
+    "ulei de avocado"
+   ],
+   "Busuioc": [
+    "oregano",
+    "pătrunjel",
+    "spanac mărunțit"
+   ]
+  }
+ },
+ "29": {
+  "protein_g": 7.2,
+  "per": "porție",
+  "vitamins": [
+   "Folat (B9)",
+   "Vitamina B6",
+   "Vitamina C",
+   "Vitamina E",
+   "Fier"
+  ],
+  "substitutions": {
+   "Năut fiert": [
+    "fasole albă",
+    "linte",
+    "fasole neagră"
+   ],
+   "Tahini": [
+    "pastă de arahide",
+    "pastă de migdale",
+    "semințe de floarea-soarelui mixate"
+   ],
+   "Lămâi / suc de lămâie": [
+    "oțet de mere",
+    "suc de lime",
+    "oțet de vin alb (mai puțin)"
+   ],
+   "Usturoi": [
+    "usturoi pudră (1/4 lingură pentru 1 cățel)",
+    "ceapă verde",
+    "praz"
+   ],
+   "Ulei de măsline": [
+    "ulei de floarea-soarelui",
+    "ulei de rapiță",
+    "ulei de avocado"
+   ]
+  }
+ },
+ "30": {
+  "protein_g": 14.0,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina B12",
+   "Vitamina A",
+   "Calciu"
+  ],
+  "substitutions": {
+   "Brânză": [
+    "telemea",
+    "brânză de vaci (în umpluturi)",
+    "cașcaval"
+   ],
+   "Ouă": [
+    "1 ou = 1 banană pisată (deserturi)",
+    "1 ou = 3 linguri de aquafaba (lichidul din năut)",
+    "1 ou = 1 lingură de semințe de in + 3 linguri de apă (aluaturi)"
+   ],
+   "Făină de grâu": [
+    "făină integrală",
+    "făină fără gluten (mix de orez/porumb)",
+    "făină de ovăz (pentru clătite și brioșe)"
+   ],
+   "Pesmet": [
+    "fulgi de ovăz mărunțiți",
+    "făină de porumb",
+    "cornflakes zdrobiți"
+   ],
+   "Ulei": [
+    "ulei de floarea-soarelui",
+    "ulei de măsline",
+    "ulei de rapiță"
+   ]
+  }
+ },
+ "31": {
+  "protein_g": 3.2,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina A (morcov)",
+   "Vitamina C",
+   "Vitamina K",
+   "Vitamina B2"
+  ],
+  "substitutions": {
+   "Foi de orez": [
+    "frunze de salată",
+    "lipii",
+    "foi de nori"
+   ],
+   "Morcovi": [
+    "păstârnac",
+    "dovleac",
+    "țelină"
+   ],
+   "Varză": [
+    "varză roșie",
+    "salată",
+    "spanac"
+   ],
+   "Ardei": [
+    "dovlecel",
+    "ardei capia",
+    "castraveți (în preparate reci)"
+   ],
+   "Ciuperci": [
+    "dovlecel",
+    "vinete",
+    "tofu"
+   ],
+   "Ulei": [
+    "ulei de floarea-soarelui",
+    "ulei de măsline",
+    "ulei de rapiță"
+   ],
+   "Sos de soia": [
+    "sos tamari (fără gluten)",
+    "sos Worcestershire",
+    "sare + puțină apă"
+   ]
+  }
+ },
+ "32": {
+  "protein_g": 10.9,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina C",
+   "Vitamina A",
+   "Calciu"
+  ],
+  "substitutions": {
+   "Chipsuri tortilla din porumb": [
+    "pâine pita prăjită",
+    "lipii tăiate triunghiuri",
+    "chipsuri de cartofi"
+   ],
+   "Roșii": [
+    "roșii la conservă",
+    "roșii pasate",
+    "ardei gras (în salate)"
+   ],
+   "Ceapă": [
+    "ceapă verde",
+    "praz",
+    "ceapă roșie"
+   ],
+   "Ardei": [
+    "dovlecel",
+    "ardei capia",
+    "castraveți (în preparate reci)"
+   ],
+   "Brânză cheddar": [
+    "cașcaval",
+    "gouda",
+    "brânză topită"
+   ],
+   "Lime": [
+    "lămâie",
+    "oțet de mere (mai puțin)"
+   ]
+  }
+ },
+ "33": {
+  "protein_g": 31.0,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina B1",
+   "Vitamina B12",
+   "Calciu",
+   "Licopen"
+  ],
+  "substitutions": {
+   "Făină de grâu": [
+    "făină integrală",
+    "făină fără gluten (mix de orez/porumb)",
+    "făină de ovăz (pentru clătite și brioșe)"
+   ],
+   "Drojdie": [
+    "drojdie proaspătă (x3 cantitatea)",
+    "bicarbonat + oțet (pentru variante rapide)",
+    "maia"
+   ],
+   "Ulei": [
+    "ulei de floarea-soarelui",
+    "ulei de măsline",
+    "ulei de rapiță"
+   ],
+   "Sos de roșii": [
+    "roșii pasate",
+    "pastă de tomate diluată cu apă",
+    "ketchup (în caz de urgență)"
+   ],
+   "Brânză mozzarella": [
+    "cașcaval",
+    "brânză de vaci (în salate)",
+    "brânză vegană"
+   ],
+   "Busuioc": [
+    "oregano",
+    "pătrunjel",
+    "spanac mărunțit"
+   ]
+  }
+ },
+ "34": {
+  "protein_g": 44.9,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina B6",
+   "Niacina (B3)",
+   "Vitamina C (ardei)",
+   "Calciu"
+  ],
+  "substitutions": {
+   "Făină de grâu": [
+    "făină integrală",
+    "făină fără gluten (mix de orez/porumb)",
+    "făină de ovăz (pentru clătite și brioșe)"
+   ],
+   "Drojdie": [
+    "drojdie proaspătă (x3 cantitatea)",
+    "bicarbonat + oțet (pentru variante rapide)",
+    "maia"
+   ],
+   "Ulei": [
+    "ulei de floarea-soarelui",
+    "ulei de măsline",
+    "ulei de rapiță"
+   ],
+   "Sos de roșii": [
+    "roșii pasate",
+    "pastă de tomate diluată cu apă",
+    "ketchup (în caz de urgență)"
+   ],
+   "Piept de pui": [
+    "piept de curcan",
+    "pește alb",
+    "tofu sau ciuperci (vegetarian)"
+   ],
+   "Brânză mozzarella": [
+    "cașcaval",
+    "brânză de vaci (în salate)",
+    "brânză vegană"
+   ],
+   "Ardei": [
+    "dovlecel",
+    "ardei capia",
+    "castraveți (în preparate reci)"
+   ]
+  }
+ },
+ "35": {
+  "protein_g": 7.2,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina B1",
+   "Vitamina B3",
+   "Vitamina E (ulei de măsline)"
+  ],
+  "substitutions": {
+   "Făină de grâu": [
+    "făină integrală",
+    "făină fără gluten (mix de orez/porumb)",
+    "făină de ovăz (pentru clătite și brioșe)"
+   ],
+   "Drojdie": [
+    "drojdie proaspătă (x3 cantitatea)",
+    "bicarbonat + oțet (pentru variante rapide)",
+    "maia"
+   ],
+   "Ulei de măsline": [
+    "ulei de floarea-soarelui",
+    "ulei de rapiță",
+    "ulei de avocado"
+   ],
+   "Rozmarin": [
+    "cimbru",
+    "oregano",
+    "salvie"
+   ]
+  }
+ },
+ "36": {
+  "protein_g": 5.3,
+  "per": "felie (~1/10 pâine)",
+  "vitamins": [
+   "Vitamina B1",
+   "Vitamina B3",
+   "Fier"
+  ],
+  "substitutions": {
+   "Făină de grâu": [
+    "făină integrală",
+    "făină fără gluten (mix de orez/porumb)",
+    "făină de ovăz (pentru clătite și brioșe)"
+   ],
+   "Drojdie": [
+    "drojdie proaspătă (x3 cantitatea)",
+    "bicarbonat + oțet (pentru variante rapide)",
+    "maia"
+   ],
+   "Ulei": [
+    "ulei de floarea-soarelui",
+    "ulei de măsline",
+    "ulei de rapiță"
+   ]
+  }
+ },
+ "37": {
+  "protein_g": 12.4,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina B12",
+   "Vitamina B2",
+   "Colină",
+   "Calciu"
+  ],
+  "substitutions": {
+   "Foi de plăcintă": [
+    "foi de aluat franzelă",
+    "foi de lasagna",
+    "lipii"
+   ],
+   "Brânză de vaci": [
+    "ricotta",
+    "urdă",
+    "iaurt grecesc strecurat"
+   ],
+   "Ouă": [
+    "1 ou = 1 banană pisată (deserturi)",
+    "1 ou = 3 linguri de aquafaba (lichidul din năut)",
+    "1 ou = 1 lingură de semințe de in + 3 linguri de apă (aluaturi)"
+   ],
+   "Iaurt": [
+    "iaurt vegetal",
+    "smântână sau kefir",
+    "brânză de vaci amestecată cu puțin lapte"
+   ],
+   "Unt": [
+    "ulei de măsline (75% din cantitate)",
+    "margarină",
+    "ulei de cocos (pentru deserturi)"
+   ],
+   "Zahăr": [
+    "miere (cu ~25% mai puțină cantitate)",
+    "sirop de arțar",
+    "îndulcitor (stevia/eritritol)"
+   ]
+  }
+ },
+ "38": {
+  "protein_g": 6.4,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina B6",
+   "Vitamina B12",
+   "Potasiu",
+   "Calciu"
+  ],
+  "substitutions": {
+   "Banane": [
+    "mango",
+    "măr copt",
+    "avocado (în smoothie)"
+   ],
+   "Lapte": [
+    "băutură vegetală (soia, ovăz, migdale)",
+    "lapte fără lactoză",
+    "apă + puțin iaurt (la aluaturi)"
+   ],
+   "Miere": [
+    "sirop de arțar",
+    "zahăr",
+    "sirop de agave"
+   ],
+   "Cuburi de gheață": [
+    "fructe congelate",
+    "apă rece"
+   ]
+  }
+ },
+ "39": {
+  "protein_g": 5.5,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina C",
+   "Vitamina K",
+   "Vitamina B6",
+   "Calciu"
+  ],
+  "substitutions": {
+   "Căpșuni": [
+    "zmeură",
+    "afine",
+    "căpșuni congelate"
+   ],
+   "Afine": [
+    "zmeură",
+    "mure",
+    "fructe de pădure congelate"
+   ],
+   "Banane": [
+    "mango",
+    "măr copt",
+    "avocado (în smoothie)"
+   ],
+   "Iaurt": [
+    "iaurt vegetal",
+    "smântână sau kefir",
+    "brânză de vaci amestecată cu puțin lapte"
+   ]
+  }
+ },
+ "40": {
+  "protein_g": 2.7,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina C",
+   "Vitamina A (beta-caroten)",
+   "Folat (B9)"
+  ],
+  "substitutions": {
+   "Portocale": [
+    "mandarine",
+    "grepfrut",
+    "suc de portocale fără zahăr"
+   ],
+   "Morcovi": [
+    "păstârnac",
+    "dovleac",
+    "țelină"
+   ]
+  }
+ },
+ "41": {
+  "protein_g": 9.1,
+  "per": "porție",
+  "vitamins": [
+   "Vitamina B12",
+   "Vitamina B2",
+   "Vitamina C (fructe)",
+   "Calciu"
+  ],
+  "substitutions": {
+   "Lapte": [
+    "băutură vegetală (soia, ovăz, migdale)",
+    "lapte fără lactoză",
+    "apă + puțin iaurt (la aluaturi)"
+   ],
+   "Înghețată de vanilie": [
+    "iaurt înghețat",
+    "banane congelate",
+    "înghețată de alt gust"
+   ],
+   "Căpșuni": [
+    "zmeură",
+    "afine",
+    "căpșuni congelate"
+   ],
+   "Banane": [
+    "mango",
+    "măr copt",
+    "avocado (în smoothie)"
+   ]
+  }
+ },
+ "42": {
+  "protein_g": 1.8,
+  "per": "porție",
+  "vitamins": [
+   "Folat (B9)",
+   "Vitamina K",
+   "Vitamina C",
+   "Vitamina B6",
+   "Potasiu"
+  ],
+  "substitutions": {
+   "Spanac": [
+    "kale",
+    "salată verde",
+    "frunze de sfeclă"
+   ],
+   "Mere": [
+    "pere",
+    "banană",
+    "ananas"
+   ],
+   "Banane": [
+    "mango",
+    "măr copt",
+    "avocado (în smoothie)"
+   ],
+   "Lămâi / suc de lămâie": [
+    "oțet de mere",
+    "suc de lime",
+    "oțet de vin alb (mai puțin)"
+   ]
+  }
+ }
+}
