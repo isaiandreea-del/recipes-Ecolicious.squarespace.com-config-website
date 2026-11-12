@@ -1,0 +1,286 @@
+{
+ "categories": [
+  [
+   "Fructe",
+   [
+    "Afine",
+    "Banane",
+    "Căpșuni",
+    "Fructe de pădure",
+    "Fructe proaspete (în funcție de sezon)",
+    "Lămâi / suc de lămâie",
+    "Lime",
+    "Mere",
+    "Portocale",
+    "Avocado",
+    "Pere",
+    "Struguri",
+    "Piersici",
+    "Caise",
+    "Prune",
+    "Cireșe",
+    "Zmeură",
+    "Mure",
+    "Kiwi",
+    "Ananas",
+    "Mango",
+    "Pepene verde",
+    "Grepfrut",
+    "Mandarine",
+    "Smochine",
+    "Curmale",
+    "Stafide",
+    "Nucă de cocos (fulgi)"
+   ]
+  ],
+  [
+   "Legume",
+   [
+    "Ardei",
+    "Ardei iute",
+    "Cartofi",
+    "Cartofi dulci",
+    "Castraveți",
+    "Ceapă",
+    "Ceapă roșie",
+    "Ceapă verde",
+    "Ciuperci",
+    "Morcovi",
+    "Roșii",
+    "Roșii cherry",
+    "Salată verde",
+    "Salată romaine",
+    "Rucola",
+    "Spanac",
+    "Țelină",
+    "Usturoi",
+    "Varză",
+    "Varză roșie",
+    "Conopidă",
+    "Broccoli",
+    "Dovlecei",
+    "Vinete",
+    "Dovleac",
+    "Sfeclă roșie",
+    "Ridichi",
+    "Praz",
+    "Păstârnac",
+    "Fasole verde",
+    "Mazăre",
+    "Ghimbir",
+    "Sparanghel"
+   ]
+  ],
+  [
+   "Ierburi aromatice",
+   [
+    "Busuioc",
+    "Pătrunjel",
+    "Rozmarin",
+    "Verdeață",
+    "Mărar",
+    "Leuștean",
+    "Cimbru",
+    "Oregano",
+    "Mentă",
+    "Coriandru",
+    "Salvie",
+    "Tarhon",
+    "Dafin",
+    "Cebuliță"
+   ]
+  ],
+  [
+   "Condimente și mirodenii",
+   [
+    "Piper",
+    "Sare",
+    "Boia dulce",
+    "Boia iute",
+    "Paprika afumată",
+    "Scorțișoară",
+    "Chimion",
+    "Curcuma",
+    "Nucșoară",
+    "Curry pudră",
+    "Fulgi de chili",
+    "Ghimbir pudră"
+   ]
+  ],
+  [
+   "Carne",
+   [
+    "Carne de pui",
+    "Piept de pui",
+    "Pulpe de pui",
+    "Carne tocată",
+    "Carne de porc",
+    "Carne de vită",
+    "Carne de curcan"
+   ]
+  ],
+  [
+   "Pește și fructe de mare",
+   [
+    "Somon",
+    "Ton",
+    "Păstrăv",
+    "Macrou",
+    "Sardine",
+    "Creveți"
+   ]
+  ],
+  [
+   "Mezeluri",
+   [
+    "Guanciale",
+    "Șuncă",
+    "Bacon",
+    "Salam",
+    "Cârnați"
+   ]
+  ],
+  [
+   "Lactate și ouă",
+   [
+    "Ouă",
+    "Lapte",
+    "Iaurt",
+    "Kefir",
+    "Unt",
+    "Smântână",
+    "Smântână pentru gătit",
+    "Frișcă lichidă",
+    "Brânză",
+    "Telemea",
+    "Brânză feta",
+    "Brânză mozzarella",
+    "Brânză cheddar",
+    "Brânză pecorino / parmezan",
+    "Brânză de vaci",
+    "Ricotta",
+    "Cașcaval",
+    "Cremă de brânză",
+    "Mascarpone",
+    "Înghețată de vanilie"
+   ]
+  ],
+  [
+   "Cereale, paste și panificație",
+   [
+    "Făină de grâu",
+    "Făină integrală",
+    "Mălai",
+    "Griș",
+    "Fulgi de ovăz",
+    "Granola",
+    "Orez",
+    "Quinoa",
+    "Bulgur",
+    "Cuscus",
+    "Paste / spaghetti",
+    "Tăiței",
+    "Foi de lasagna",
+    "Pâine",
+    "Baghetă",
+    "Pâine pita",
+    "Tortilla (lipii)",
+    "Crutoane",
+    "Pesmet",
+    "Biscuiți",
+    "Pișcoturi",
+    "Foi de plăcintă",
+    "Foi de orez",
+    "Aluat foietaj",
+    "Chipsuri tortilla din porumb"
+   ]
+  ],
+  [
+   "Leguminoase, nuci și semințe",
+   [
+    "Fasole uscată",
+    "Fasole la conservă",
+    "Năut fiert",
+    "Linte",
+    "Tofu",
+    "Tahini",
+    "Nuci",
+    "Migdale",
+    "Alune de pădure",
+    "Arahide",
+    "Unt de arahide",
+    "Semințe de floarea-soarelui",
+    "Semințe de dovleac",
+    "Semințe de susan",
+    "Semințe de chia",
+    "Semințe de in"
+   ]
+  ],
+  [
+   "Conserve, sosuri și alte ingrediente",
+   [
+    "Roșii pasate",
+    "Roșii cuburi (conservă)",
+    "Pastă de tomate",
+    "Sos de roșii",
+    "Porumb",
+    "Măsline",
+    "Capere",
+    "Castraveți murați",
+    "Pesto",
+    "Maioneză",
+    "Ketchup",
+    "Muștar",
+    "Hrean",
+    "Sos Caesar",
+    "Sos de soia",
+    "Borș",
+    "Supă",
+    "Lapte de cocos",
+    "Gem / dulceață",
+    "Cafea",
+    "Ciocolată neagră",
+    "Cacao"
+   ]
+  ],
+  [
+   "Uleiuri, oțeturi și lichide",
+   [
+    "Apă",
+    "Ulei",
+    "Ulei de măsline",
+    "Oțet",
+    "Oțet balsamic",
+    "Vin alb",
+    "Vin roșu"
+   ]
+  ],
+  [
+   "Ingrediente pentru desert și panificație",
+   [
+    "Zahăr",
+    "Zahăr pudră",
+    "Zahăr brun",
+    "Miere",
+    "Sirop de arțar",
+    "Amidon",
+    "Drojdie",
+    "Praf de copt",
+    "Bicarbonat de sodiu",
+    "Vanilie",
+    "Gelatină"
+   ]
+  ],
+  [
+   "Altele",
+   [
+    "Cuburi de gheață"
+   ]
+  ]
+ ],
+ "staples": [
+  "Apă",
+  "Sare",
+  "Piper"
+ ]
+}
