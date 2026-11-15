@@ -1,0 +1,138 @@
+Recipe number - name (use the number as the photo name, e.g. 12.jpg)
+
+1 - Clătite cu fructe
+2 - Brownie
+3 - Cheesecake
+4 - Tiramisu
+5 - Brioșe cu afine
+6 - Tartă cu fructe
+7 - Paste Carbonara
+8 - Paste Bolognese
+9 - Lasagna
+10 - Pui cu orez și legume
+11 - Cartofi gratinați
+12 - Șnițel de pui
+13 - Ciorbă de perișoare
+14 - Supă de pui cu tăiței
+15 - Ciorbă de legume
+16 - Supă cremă de ciuperci
+17 - Ciorbă de fasole
+18 - Salată grecească
+19 - Salată Caesar cu pui
+20 - Salată cu ton
+21 - Salată cu avocado
+22 - Salată de paste
+23 - Omletă cu brânză
+24 - Toast cu avocado și ou
+25 - Terci de ovăz
+26 - Iaurt cu granola
+27 - Sandwich cu șuncă și cașcaval
+28 - Bruschete cu roșii
+29 - Hummus
+30 - Biluțe de brânză
+31 - Rulouri de legume
+32 - Nachos cu sos salsa și brânză
+33 - Pizza Margherita
+34 - Pizza cu pui
+35 - Focaccia cu rozmarin
+36 - Pâine de casă
+37 - Plăcintă cu brânză
+38 - Smoothie de banane
+39 - Smoothie de fructe
+40 - Suc natural de portocale și morcovi
+41 - Milkshake
+42 - Smoothie verde
+43 - Chiftele
+44 - Tocăniță de pui cu boia
+45 - Gulaș de vită
+46 - Pulpe de pui la cuptor cu cartofi
+47 - Somon la cuptor cu lămâie
+48 - Păstrăv la tigaie
+49 - Creveți cu usturoi și pătrunjel
+50 - Cotlet de porc cu muștar
+51 - Pui curry cu orez
+52 - Chili con carne
+53 - Tacos cu carne tocată
+54 - Burger de casă
+55 - Paste cu pesto
+56 - Paste cu somon și smântână
+57 - Paste cu ciuperci și smântână
+58 - Risotto cu ciuperci
+59 - Musaca de cartofi
+60 - Dovlecei umpluți cu carne
+61 - Ardei umpluți cu carne și orez
+62 - Tocană de linte
+63 - Tocăniță de legume
+64 - Fasole cu cârnați
+65 - Wrap cu pui
+66 - Frigărui de pui cu legume
+67 - Quesadilla cu pui și brânză
+68 - Shakshuka
+69 - Curry de năut
+70 - Mămăligă cu brânză și smântână
+71 - Macrou la cuptor cu cartofi
+72 - Orez cu legume
+73 - Cartofi la cuptor cu rozmarin
+74 - Piure de cartofi
+75 - Cartofi wedges la cuptor
+76 - Cartofi dulci la cuptor
+77 - Legume la cuptor
+78 - Broccoli cu usturoi
+79 - Fasole verde cu usturoi
+80 - Conopidă la cuptor
+81 - Varză călită
+82 - Cuscus cu legume
+83 - Quinoa cu legume
+84 - Piure de dovleac
+85 - Dovlecei la tigaie cu usturoi
+86 - Mazăre cu morcovi
+87 - Mousse de ciocolată
+88 - Prăjitură cu mere
+89 - Plăcintă cu mere
+90 - Panna cotta
+91 - Orez cu lapte
+92 - Salată de fructe
+93 - Mere coapte cu scorțișoară
+94 - Fursecuri cu unt
+95 - Budincă de chia
+96 - Înghețată de banane
+97 - Griș cu lapte
+98 - Biscuiți cu ovăz și stafide
+99 - Pandișpan
+100 - Supă cremă de dovleac
+101 - Supă cremă de broccoli
+102 - Supă de linte
+103 - Supă de roșii
+104 - Ciorbă de cartofi cu smântână
+105 - Salată de roșii cu ceapă
+106 - Salată de varză (coleslaw)
+107 - Salată de sfeclă cu iaurt
+108 - Salată caprese
+109 - Salată de boeuf
+110 - Salată de linte cu legume
+111 - Salată cu rucola și parmezan
+112 - Omletă cu spanac
+113 - Pancakes americani
+114 - Ochiuri cu bacon
+115 - Toast cu unt de arahide și banană
+116 - Tartine cu brânză de vaci și roșii
+117 - Omletă de cartofi
+118 - Iaurt cu miere și nuci
+119 - Ouă umplute
+120 - Tartine cu cremă de brânză și castraveți
+121 - Feta la cuptor cu roșii
+122 - Rulouri cu șuncă și brânză
+123 - Chipsuri de legume la cuptor
+124 - Nuci prăjite cu miere și rozmarin
+125 - Ardei copți cu usturoi
+126 - Falafel la cuptor
+127 - Guacamole
+128 - Sos tzatziki
+129 - Pesto de busuioc
+130 - Sos de roșii de casă
+131 - Salată de vinete
+132 - Limonadă
+133 - Ceai de ghimbir cu lămâie și miere
+134 - Cacao caldă
+135 - Smoothie de mango și ananas
+136 - Lapte auriu

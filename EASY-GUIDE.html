@@ -1,0 +1,32 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Ecolicious – Easy guide</title>
+<style>body{font-family:system-ui,sans-serif;max-width:720px;margin:30px auto;padding:0 18px;line-height:1.6;color:#3a2a20}h1,h2{color:#5a7a24}code{background:#f3ead2;padding:2px 6px;border-radius:5px}li{margin:8px 0}pre{background:#f3ead2;padding:12px;border-radius:8px;overflow:auto}</style></head><body>
+<h1>Ecolicious – Easy guide</h1>
+<h2>A. Link TikTok and Instagram (when you have the accounts)</h2>
+<ol>
+<li>Copy your account address. On TikTok it looks like <code>https://www.tiktok.com/@yourname</code>. On Instagram: <code>https://www.instagram.com/yourname</code>. (Open your profile in a browser and copy the address bar.)</li>
+<li>Go to your repository on github.com and click the file <b>index.html</b>.</li>
+<li>Click the <b>pencil icon</b> (Edit this file), top right of the file.</li>
+<li>Press <b>Ctrl+F</b> (Mac: Cmd+F) and search for <code>TIKTOK_URL</code>.</li>
+<li>You will see <code>const TIKTOK_URL = "";</code>. Paste your address <b>between the two quote marks</b>: <code>const TIKTOK_URL = "https://www.tiktok.com/@yourname";</code></li>
+<li>Do the same for <code>INSTAGRAM_URL</code>.</li>
+<li>Click the green <b>Commit changes…</b> button, then <b>Commit changes</b> again.</li>
+<li>Wait 1–2 minutes and refresh your site. The two icons now appear in the top menu and open your accounts. Until you fill in an address, the icon stays hidden.</li>
+</ol>
+<h2>B. Change the photo of a recipe</h2>
+<p><b>Step 1 – Find the recipe number.</b> Open the file <code>RECIPE-NUMBERS.txt</code> from the zip. It lists every recipe with its number (for example "12 - Pizza Margherita"). Write down the numbers of the recipes you have photos for.</p>
+<p><b>Step 2 – Prepare the photo.</b> Save it as <code>.jpg</code> (or .webp / .png), about 800 pixels wide. Name it with the recipe number, for example <code>12.jpg</code>.</p>
+<p><b>Step 3 – Upload the photo.</b></p>
+<ol><li>On GitHub, open your repository and click <b>Add file → Upload files</b>.</li><li>Drag your photos in (up to 100 at a time).</li><li>Click <b>Commit changes</b>.</li></ol>
+<p><b>Step 4 – Tell the app which photo belongs to which recipe.</b></p>
+<ol><li>Click the file <b>photos.json</b>, then the pencil icon.</li>
+<li>It contains <code>{}</code>. Replace it with one line per photo, like this (recipe number, then file name):
+<pre>{
+  "12": "12.jpg",
+  "45": "45.jpg",
+  "101": "101.jpg"
+}</pre></li>
+<li>Rules: every line ends with a comma <b>except the last one</b>; use straight quote marks <code>"</code>; the file name must match exactly, including .jpg.</li>
+<li>Click <b>Commit changes</b>.</li></ol>
+<p><b>Step 5 – Check.</b> After 1–2 minutes refresh the site (Ctrl+F5). The new photo shows on the recipe card and at the top of the recipe. If you still see the old picture, refresh again or check the file name.</p>
+<p><b>To go back to the watercolor picture:</b> delete that recipe's line from photos.json and commit.</p>
+</body></html>
