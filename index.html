@@ -183,6 +183,47 @@
   @media(max-width:960px){.jump{display:inline-flex}}
   footer{max-width:1100px;margin:0 auto;padding:0 22px 40px;color:#fff1da;font-size:.82rem;text-shadow:0 1px 3px rgba(0,0,0,.7);text-align:center}
   @media(max-width:600px){header.top{padding:12px 14px 0}.brand img{height:44px}.pill{padding:8px 14px;font-size:.9rem}main{padding:26px 14px 90px}.sheet{padding:30px 16px 22px}.chin{width:100px;right:-2px;top:-110px}.clipboard{margin-top:118px}}
+
+  /* ===== antet nou (meniu) + hero + ilustrații ===== */
+  header.top{display:flex;align-items:center;gap:18px;justify-content:flex-start;padding:12px 26px 0;max-width:1500px;margin:0 auto;position:relative;z-index:30}
+  .brand{background:none;box-shadow:none;transform:none;padding:0;border-radius:0}
+  .brand::before{display:none}
+  .brand img{height:64px;width:auto;filter:drop-shadow(0 2px 4px rgba(0,0,0,.45))}
+  nav.nav{display:flex;align-items:center;gap:26px;margin:0 auto}
+  nav.nav a{color:#fff;text-decoration:none;font-weight:600;font-size:1.02rem;text-shadow:0 1px 4px rgba(0,0,0,.6);white-space:nowrap}
+  nav.nav a:hover{text-decoration:underline}
+  .top-actions{display:flex;align-items:center;gap:14px;flex-wrap:nowrap;padding-top:0;margin-left:auto}
+  .top-actions a.tl{color:#fff;text-decoration:none;font-weight:600;text-shadow:0 1px 4px rgba(0,0,0,.6)}
+  .soc{display:inline-flex;color:#fff;filter:drop-shadow(0 1px 3px rgba(0,0,0,.6))}
+  .soc svg{width:22px;height:22px;fill:currentColor}
+  .lang{position:relative}
+  .lang>button{white-space:nowrap;background:none;border:0;color:#fff;font:inherit;font-weight:600;cursor:pointer;display:inline-flex;gap:6px;align-items:center;text-shadow:0 1px 4px rgba(0,0,0,.6);padding:6px 4px}
+  .lang-menu{position:absolute;right:0;top:100%;margin-top:6px;background:var(--cream);border-radius:12px;box-shadow:0 8px 20px rgba(0,0,0,.4);padding:6px;min-width:130px;display:none;z-index:40}
+  .lang.open .lang-menu{display:block}
+  .lang-menu button{display:block;width:100%;text-align:left;background:none;border:0;font:inherit;font-weight:600;color:var(--ink);padding:8px 12px;border-radius:8px;cursor:pointer}
+  .lang-menu button:hover,.lang-menu button[aria-current="true"]{background:#f1e3bf}
+  .burger{display:none;background:none;border:0;color:#fff;font-size:1.7rem;cursor:pointer;margin-left:auto;text-shadow:0 1px 4px rgba(0,0,0,.6)}
+  .hero-sec{position:relative;z-index:2;max-width:1500px;margin:0 auto;padding:30px 26px 10px;min-height:min(64vh,520px);display:flex;align-items:center}
+  .hero-txt{max-width:560px;position:relative;z-index:3}
+  .hero-txt img{width:min(100%,540px);height:auto;display:block;filter:drop-shadow(0 4px 8px rgba(0,0,0,.45))}
+  .hero-txt .htag{margin:14px 0 18px;color:#ffd9a8;font-size:1.5rem;font-weight:600;text-shadow:0 2px 6px rgba(0,0,0,.55)}
+  .hero-btn{display:inline-block;min-width:260px;text-align:center;border:2px solid #fff;border-radius:16px;color:#fff;text-decoration:none;font-weight:600;font-size:1.15rem;padding:18px 30px;background:rgba(0,0,0,.12);letter-spacing:.03em}
+  .hero-btn:hover{background:rgba(255,255,255,.16)}
+  .hero-art{position:absolute;inset:0;pointer-events:none;z-index:1}
+  .hero-art img{position:absolute;filter:drop-shadow(0 8px 10px rgba(0,0,0,.4))}
+  .pic{position:relative;width:100%;height:100%;border-radius:10px;overflow:hidden;background:
+      radial-gradient(ellipse 55% 60% at 30% 40%,rgba(246,196,150,.55),transparent 70%),
+      radial-gradient(ellipse 50% 55% at 72% 62%,rgba(244,170,150,.38),transparent 70%),#fff6e2}
+  .pic img{position:absolute;object-fit:contain;filter:drop-shadow(0 3px 4px rgba(60,30,10,.28))}
+  .pic .h{left:50%;top:50%;transform:translate(-50%,-50%);height:84%;max-width:60%}
+  .pic .g1{left:4%;bottom:4%;height:38%;max-width:30%;transform:rotate(-8deg)}
+  .pic .g2{right:4%;top:5%;height:36%;max-width:30%;transform:rotate(9deg)}
+  .pic .h:only-of-type{max-width:80%}
+  .photo .pic{border-radius:8px}
+  div.hero.pic{width:min(100%,400px);height:auto;aspect-ratio:4/3;border:2px solid var(--line);margin:10px 0 4px}
+  @media(max-width:960px){nav.nav{display:none;position:absolute;left:14px;right:14px;top:78px;flex-direction:column;align-items:flex-start;gap:14px;background:rgba(58,30,18,.95);padding:18px 22px;border-radius:16px;z-index:50}
+    header.top.menu nav.nav{display:flex}.burger{display:block}.top-actions{margin-left:0}.hero-sec{min-height:0;padding-top:20px}.hero-art{opacity:.3}}
+  @media(max-width:600px){header.top{padding:10px 12px 0;gap:8px}.brand img{height:44px}.top-actions{gap:8px}.top-actions a.tl,.soc{display:none}.lang #langName{display:none}.top-actions .pill{padding:8px 12px;font-size:.88rem}.hero-art{display:none}.burger{margin-left:0;font-size:1.5rem}.hero-txt .htag{font-size:1.15rem}.hero-btn{min-width:0;width:100%;padding:14px}}
 </style>
 </head>
 <body>
@@ -200,13 +241,35 @@
 </svg>
 <div id="vegs" aria-hidden="true"></div>
 
-<header class="top">
+<header class="top" id="topbar">
   <a class="brand" id="brand" href="#" aria-label="Ecolicious – înapoi pe site"><img src="assets/logo.png" alt="Ecolicious"></a>
+  <nav class="nav" aria-label="Meniu">
+    <a id="nRecipes" href="#recipes">Rețete</a>
+    <a id="nSub" href="#">Abonament</a>
+    <a id="nContact" href="#">Contactați-ne</a>
+    <a id="nFaq" href="#">Întrebări frecvente</a>
+  </nav>
   <div class="top-actions">
-    <a class="pill" id="backToSite" href="#" hidden>← Înapoi pe site</a>
+    <a class="tl" id="nLogin" href="#">Login</a>
+    <a class="soc" id="nTiktok" href="#" target="_blank" rel="noopener" aria-label="TikTok"><svg viewBox="0 0 24 24"><path d="M16.6 3c.3 2.4 1.7 4 4 4.2v3.1c-1.5 0-2.9-.4-4-1.2v6.2c0 3.4-2.7 5.7-5.7 5.7-3.1 0-5.6-2.5-5.6-5.6 0-3.3 2.8-5.9 6.3-5.5v3.2c-1.6-.4-3 .7-3 2.3 0 1.3 1 2.4 2.4 2.4 1.4 0 2.5-1 2.5-2.600V3h3.1z"/></svg></a>
+    <a class="soc" id="nInsta" href="#" target="_blank" rel="noopener" aria-label="Instagram"><svg viewBox="0 0 24 24"><path d="M7 2h10a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5H7a5 5 0 0 1-5-5V7a5 5 0 0 1 5-5zm0 2a3 3 0 0 0-3 3v10a3 3 0 0 0 3 3h10a3 3 0 0 0 3-3V7a3 3 0 0 0-3-3H7zm5 3.500A4.500 4.500 0 1 1 7.500 12 4.500 4.500 0 0 1 12 7.500zm0 2A2.500 2.500 0 1 0 14.500 12 2.500 2.500 0 0 0 12 9.500zM17.300 5.700a1.100 1.100 0 1 1-1.100 1.100 1.100 1.100 0 0 1 1.100-1.100z"/></svg></a>
+    <div class="lang" id="langBox">
+      <button type="button" id="langBtn" aria-haspopup="true" aria-label="Limba / Language">🌐 <span id="langName">Română</span> ▾</button>
+      <div class="lang-menu"><button type="button" data-lang="ro">Română</button><button type="button" data-lang="en">English</button></div>
+    </div>
     <button class="pill premium" id="premiumBtn" type="button"></button>
   </div>
+  <button class="burger" id="burger" type="button" aria-label="Meniu">☰</button>
 </header>
+
+<section class="hero-sec" aria-label="Ecolicious">
+  <div class="hero-art" id="heroArt" aria-hidden="true"></div>
+  <div class="hero-txt">
+    <img src="assets/logo.png" alt="Ecolicious">
+    <p class="htag">Risipa dispare, gustul apare!</p>
+    <a class="hero-btn" href="#recipes">Rețete</a>
+  </div>
+</section>
 
 <main>
   <!-- ======== Clipboard cu ingrediente ======== -->
@@ -341,6 +404,27 @@ const esc = s => String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">"
 function load(k, d){ try{ const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; }catch(e){ return d; } }
 function save(k, v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} }
 
+
+/* =====================  LIMBA / LANGUAGE  ===================== */
+const NAV_LINKS = {                       // ← adresele din meniu (Squarespace) – le poți schimba
+  subscription: "/abonament",             // pagina „Abonament”
+  contact: "/contact",                    // pagina „Contactați-ne”
+  faq: "/intrebari-frecvente",            // pagina „Întrebări frecvente”
+  login: "/login"                         // pagina de login / cont
+};
+const TIKTOK_URL = "";                    // ex: "https://www.tiktok.com/@ecolicious"
+const INSTAGRAM_URL = "";                 // ex: "https://www.instagram.com/ecolicious"
+let LANG = "ro";
+try{ const q = new URLSearchParams(location.search).get("lang"); LANG = (q === "en" || q === "ro") ? q : (localStorage.getItem("lang") || "ro"); }catch(e){}
+let EN = {r:{}, d:{}};
+const L = s => (LANG === "en" && EN.d[s]) || s;                       // text de date (ingrediente, categorii etc.)
+const ER = r => (LANG === "en" && EN.r[r.id]) || null;
+const RN = r => { const e = ER(r); return e ? e.n : r.name; };
+const RI = (r, i) => { const e = ER(r); return e && e.i[i] ? e.i[i] : r.ingredients[i].text; };
+const RS = r => { const e = ER(r); return e ? e.s : r.steps; };
+const RB = r => { const e = ER(r); return e ? e.b : r.benefits; };
+const RA = r => { const e = ER(r); return e ? e.a : r.allergens; };
+
 const COURSE_ORDER = ["Fel principal","Garnitură","Desert","Supe și ciorbe","Salate","Mic dejun","Gustări și aperitive","Sosuri și dipuri","Pâine și patiserie","Băuturi și smoothie-uri"];
 const ALLERGENS = ["Gluten","Lapte","Ouă","Pește","Crustacee","Soia","Fructe cu coajă","Arahide","Susan","Țelină","Muștar"];
 const DIETS = [["vegan","Vegană"],["vegetarian","Vegetariană"],["glutenFree","Fără gluten"],["lactoseFree","Fără lactoză"]];
@@ -351,7 +435,7 @@ const EMO = [[/pizza/i,"🍕"],[/paste|spaghetti|lasagna|carbonara|bolognese/i,"
   [/omletă|ochiuri|shakshuka|ouă/i,"🍳"],[/mămăligă/i,"🌽"],[/fructe|mere|banane|înghețată|iaurt/i,"🍎"],[/legume|broccoli|conopidă|varză|fasole|mazăre|dovlec|ardei|linte|năut|falafel|tocan/i,"🥦"],
   [/carne|chiftele|gulaș|cotlet|chili|musaca|sarmale|ardei umpluți/i,"🥩"],[/nuci/i,"🥜"],[/brânză|feta|rulouri/i,"🧀"]];
 const COURSE_EMO = {"Fel principal":"🍲","Garnitură":"🥔","Desert":"🍰","Supe și ciorbe":"🥣","Salate":"🥗","Mic dejun":"🍳","Gustări și aperitive":"🧀","Sosuri și dipuri":"🫙","Pâine și patiserie":"🥖","Băuturi și smoothie-uri":"🥤"};
-const stepHtml = s => { const [m, ...t] = s.split(/\s*Sfat:\s*/); return `${esc(m)}${t.length ? `<span class="tip"><b>💡 Sfat:</b> ${esc(t.join(" "))}</span>` : ""}`; };
+const stepHtml = s => { const [m, ...t] = s.split(/\s*(?:Sfat|Tip):\s*/); return `${esc(m)}${t.length ? `<span class="tip"><b>💡 Sfat:</b> ${esc(t.join(" "))}</span>` : ""}`; };
 const emojiFor = r => { for(const [re,e] of EMO) if(re.test(r.name)) return e; return COURSE_EMO[r.course] || "🍽"; };
 
 let recipes = [], premiumData = null, CATEGORIES = [], STAPLES = new Set();
@@ -364,39 +448,53 @@ let tab = "all", course = "";
 const flags = new Set();
 
 /* =====================  CONFIGURARE LINKURI  ===================== */
-if(SQUARESPACE_URL){ $("#brand").href = SQUARESPACE_URL; $("#backToSite").href = SQUARESPACE_URL; $("#backToSite").hidden = false; }
-else { $("#brand").addEventListener("click", e => e.preventDefault()); }
+const SQ = (SQUARESPACE_URL || "").replace(/\/$/, "");
+const abs = u => !u ? "" : (/^https?:/i.test(u) ? u : (SQ ? SQ + u : ""));
+if(SQ) $("#brand").href = SQ; else $("#brand").addEventListener("click", e => e.preventDefault());
+[["#nSub", NAV_LINKS.subscription], ["#nContact", NAV_LINKS.contact], ["#nFaq", NAV_LINKS.faq], ["#nLogin", NAV_LINKS.login], ["#nTiktok", TIKTOK_URL], ["#nInsta", INSTAGRAM_URL]].forEach(([id, u]) => {
+  const el = $(id), h = abs(u); if(h) el.href = h; else if(id === "#nTiktok" || id === "#nInsta") el.hidden = true; else el.addEventListener("click", e => e.preventDefault());
+});
+$("#burger").onclick = () => $("#topbar").classList.toggle("menu");
+$("#nRecipes").addEventListener("click", () => $("#topbar").classList.remove("menu"));
+$("#langName").textContent = LANG === "en" ? "English" : "Română";
+document.querySelectorAll(".lang-menu button").forEach(b => b.setAttribute("aria-current", b.dataset.lang === LANG));
+$("#langBtn").onclick = e => { e.stopPropagation(); $("#langBox").classList.toggle("open"); };
+document.addEventListener("click", () => $("#langBox").classList.remove("open"));
+document.querySelectorAll(".lang-menu button").forEach(b => b.onclick = () => { try{ localStorage.setItem("lang", b.dataset.lang); }catch(e){} const u = new URL(location.href); u.searchParams.set("lang", b.dataset.lang); location.href = u.toString(); });
 if(PREMIUM_PRODUCT_URL){ $("#buyLink").href = PREMIUM_PRODUCT_URL; $("#buyLink").hidden = false; }
 
 /* =====================  DECORAȚII (legume în fundal)  ===================== */
+const AU = n => (window.ART && ART[n]) ? ART[n].u : "";
 (function(){
-  const items = [["tomato",96,"top:64px;right:2%;transform:rotate(15deg)"],["tomato",70,"top:150px;right:9%;transform:rotate(-20deg)"],["basil",82,"top:54px;right:13%;transform:rotate(30deg)"],
-    ["lemon",104,"top:210px;right:1%;transform:rotate(-10deg)"],["garlic",70,"top:46px;right:21%;transform:rotate(12deg)"],["carrot",120,"top:330px;right:3%;transform:rotate(35deg)"],
-    ["basil",84,"top:560px;left:-14px;transform:rotate(-70deg)"],["tomato",76,"top:620px;left:0;transform:rotate(10deg)"],["chili",84,"top:720px;left:-8px;transform:rotate(-25deg)"],["onion",72,"top:830px;left:6px;transform:rotate(14deg)"],
-    ["mushroom",92,"bottom:260px;right:2%;transform:rotate(-12deg)"],["broccoli",104,"bottom:150px;right:1%;transform:rotate(8deg)"],["herb",110,"bottom:60px;right:7%;transform:rotate(-30deg)"],["pepper",86,"bottom:30px;left:2%;transform:rotate(-15deg)"],["eggplant",96,"bottom:150px;left:-10px;transform:rotate(20deg)"]];
-  $("#vegs").innerHTML = items.map(([n,w,st]) => `<img class="deco" alt="" src="${ART[n]||''}" style="width:${w}px;${st}">`).join("");
+  const items = [["tomato",104,"top:70px;right:2%;transform:rotate(12deg)"],["garlic",78,"top:44px;right:20%;transform:rotate(12deg)"],["yPepper",110,"top:190px;right:1%;transform:rotate(-8deg)"],
+    ["broccoli",96,"top:340px;right:3%;transform:rotate(14deg)"],["onionHalf",70,"top:120px;right:11%;transform:rotate(-18deg)"],
+    ["chili",120,"top:560px;left:-22px;transform:rotate(-60deg)"],["tomato",84,"top:640px;left:-6px;transform:rotate(-10deg)"],["onion",72,"top:760px;left:6px;transform:rotate(14deg)"],["redOnion",80,"top:860px;left:-12px;transform:rotate(-8deg)"],
+    ["cheese",92,"bottom:270px;right:2%;transform:rotate(-12deg)"],["zucchini",96,"bottom:150px;right:1%;transform:rotate(18deg)"],["loaf",118,"bottom:50px;right:6%;transform:rotate(-14deg)"],["rPepper",76,"bottom:30px;left:2%;transform:rotate(-12deg)"],["eggplant",106,"bottom:150px;left:-14px;transform:rotate(14deg)"]];
+  $("#vegs").innerHTML = items.map(([n,w,st]) => `<img class="deco" alt="" src="${AU(n)}" style="width:${w}px;${st}">`).join("");
   if(innerWidth < 960) $("#vegs").style.display = "none";
+  const hero = [["pizza",250,"right:12%;top:10%;transform:rotate(-8deg)"],["tomato",190,"right:1%;top:2%;transform:rotate(10deg)"],["garlic",130,"right:30%;top:0;transform:rotate(14deg)"],["yPepper",170,"right:0;top:44%;transform:rotate(-6deg)"],["cheese",140,"right:24%;bottom:4%;transform:rotate(12deg)"],["broccoli",110,"right:40%;bottom:10%;transform:rotate(-10deg)"],["pancakes",170,"right:9%;bottom:-4%;transform:rotate(5deg)"]];
+  $("#heroArt").innerHTML = hero.map(([n,w,st]) => `<img alt="" src="${AU(n)}" style="width:${w}px;${st}">`).join("");
 })();
 
 /* =====================  INGREDIENTE  ===================== */
-const CAT_ICON = {"Fructe":"lemon","Legume":"carrot","Ierburi aromatice":"herb","Condimente și mirodenii":"chili","Carne":"steak","Pește și fructe de mare":"fish","Mezeluri":"sausage","Lactate și ouă":"cheese","Cereale, paste și panificație":"wheat","Leguminoase, nuci și semințe":"broccoli","Conserve, sosuri și alte ingrediente":"tomato","Uleiuri, oțeturi și lichide":"oil","Ingrediente pentru desert și panificație":"cupcake","Altele":"mushroom"};
+const CAT_ICON = {"Fructe":"cake","Legume":"tomato","Ierburi aromatice":"broccoli","Condimente și mirodenii":"chili","Carne":"sandwich","Pește și fructe de mare":"slices","Mezeluri":"sandwich","Lactate și ouă":"cheese","Cereale, paste și panificație":"loaf","Leguminoase, nuci și semințe":"garlic","Conserve, sosuri și alte ingrediente":"onion","Uleiuri, oțeturi și lichide":"yPepper","Ingrediente pentru desert și panificație":"muffinChoc","Altele":"redOnion"};
 function buildIngredients(filter=""){
   const f = norm(filter), el = $("#ingredients");
   el.innerHTML = CATEGORIES.map(([cat, items], ci) => {
-    const shown = items.filter(i => !f || norm(i).includes(f));
+    const shown = items.filter(i => !f || norm(i).includes(f) || norm(L(i)).includes(f));
     if(!shown.length) return "";
     const n = items.filter(i => selected.has(i)).length;
     const open = f ? true : (el.dataset.open ? el.dataset.open.split("|").includes(String(ci)) : (ci < 2 && innerWidth > 960));
     return `<details class="cat" data-ci="${ci}" ${open ? "open":""}>
-      <summary>${CAT_ICON[cat] ? `<img class="ci" alt="" src="${ART[CAT_ICON[cat]]||''}">` : ""}<span>${esc(cat)}</span><span class="count" ${n ? "" : "hidden"}>${n}</span></summary>
-      <div class="chips">${shown.map(i => `<label class="chip ${STAPLES.has(i)?"staple":""}"><input type="checkbox" value="${esc(i)}" ${selected.has(i)?"checked":""}><span>${esc(i)}</span></label>`).join("")}</div>
+      <summary>${CAT_ICON[cat] ? `<img class="ci" alt="" src="${AU(CAT_ICON[cat])}">` : ""}<span>${esc(L(cat))}</span><span class="count" ${n ? "" : "hidden"}>${n}</span></summary>
+      <div class="chips">${shown.map(i => `<label class="chip ${STAPLES.has(i)?"staple":""}"><input type="checkbox" value="${esc(i)}" ${selected.has(i)?"checked":""}><span>${esc(L(i))}</span></label>`).join("")}</div>
     </details>`;
   }).join("");
   updateSelCount();
 }
 function updateSelCount(){
   const n = [...selected].filter(i => !STAPLES.has(i)).length;
-  $("#selCount").textContent = n ? `${n} ingredient${n===1?"":"e"} ales${n===1?"":"e"}` : "Niciun ingredient ales";
+  $("#selCount").textContent = LANG === "en" ? (n ? `${n} ingredient${n===1?"":"s"} selected` : "No ingredient selected") : (n ? `${n} ingredient${n===1?"":"e"} ales${n===1?"":"e"}` : "Niciun ingredient ales");
 }
 $("#ingredients").addEventListener("change", e => {
   if(e.target.type !== "checkbox") return;
@@ -438,12 +536,12 @@ function visible(){
   if(course) list = list.filter(x => x.r.course === course);
   if(cuisine) list = list.filter(x => x.r.cuisine === cuisine);
   for(const f of flags) list = list.filter(x => x.r.flags[f]);
-  if(q) list = list.filter(x => norm(x.r.name + " " + x.r.ingredients.map(i => i.text).join(" ") + " " + x.r.course + " " + x.r.cuisine).includes(q));
+  if(q) list = list.filter(x => norm(x.r.name + " " + RN(x.r) + " " + x.r.ingredients.map((i,k) => i.text + " " + RI(x.r,k)).join(" ") + " " + L(x.r.course) + " " + L(x.r.cuisine)).includes(q));
   if(sel && tab !== "fav") list = list.filter(x => x.a.have.length > 0);
   const av = $("#avail").value;
   if(av !== "" && sel) list = list.filter(x => x.a.missing.length <= +av);
   const s = $("#sort").value;
-  if(s === "az") list.sort((a,b) => a.r.name.localeCompare(b.r.name, "ro"));
+  if(s === "az") list.sort((a,b) => RN(a.r).localeCompare(RN(b.r), LANG));
   else if(s === "time") list.sort((a,b) => minutes(a.r.time) - minutes(b.r.time));
   else if(sel) list.sort((a,b) => (a.a.missing.length - b.a.missing.length) || (b.a.ratio - a.a.ratio) || (b.a.have.length - a.a.have.length));
   else list.sort((a,b) => a.r.id - b.r.id);
@@ -459,19 +557,20 @@ function badgesFor(r){
   if(r.flags.lactoseFree) b.push(`<span class="b">Fără lactoză</span>`);
   return b.join("");
 }
+const picHtml = r => r.pic && window.ART && r.pic.every(n => ART[n]) ? `<div class="pic">${r.pic.map((n,i) => `<img class="${["h","g1","g2"][i]}" alt="" src="${ART[n].u}">`).join("")}</div>` : "";
 function note(x, sel, idx){
   const r = x.r, a = x.a, fav = favs.has(r.id);
   const match = !sel ? "" : (a.missing.length === 0 ? `<span class="b ok">✓ Ai tot ce îți trebuie</span>` : `<span class="b part">${a.have.length} din ${a.needed.length} ingrediente</span>`);
-  const photo = r.image ? `<img src="${esc(r.image)}" alt="" loading="lazy">` : emojiFor(r);
-  return `<article class="note n${idx % 6}" data-id="${r.id}" tabindex="0" role="button" aria-label="Deschide rețeta ${esc(r.name)}">
+  const photo = picHtml(r) || (r.image ? `<img src="${esc(r.image)}" alt="" loading="lazy">` : emojiFor(r));
+  return `<article class="note n${idx % 6}" data-id="${r.id}" tabindex="0" role="button" aria-label="Deschide rețeta ${esc(RN(r))}">
     <span class="tape"></span>
     <button class="fav" data-fav="${r.id}" aria-label="${fav ? "Scoate de la favorite" : "Adaugă la favorite (Premium)"}" aria-pressed="${fav}">${fav ? "★" : "☆"}</button>
     <div class="photo">${photo}</div>
-    <h3>${esc(r.name)}</h3>
-    <div class="meta">⏱ ${esc(r.time)} · ${esc(r.course)}</div>
+    <h3>${esc(RN(r))}</h3>
+    <div class="meta">⏱ ${esc(L(r.time))} · ${esc(L(r.course))}</div>
     <div class="badges">${match}${badgesFor(r)}</div>
-    ${r.allergenList.length ? `<div class="allergens-line">⚠ ${r.allergenList.map(esc).join(" · ")}</div>` : ""}
-    ${sel && a.missing.length ? `<div class="missing">Lipsesc: ${a.missing.slice(0,3).map(i => esc(i.keys[0])).join(", ")}${a.missing.length>3 ? "…" : ""}</div>` : ""}
+    ${r.allergenList.length ? `<div class="allergens-line">⚠ ${r.allergenList.map(a => esc(L(a))).join(" · ")}</div>` : ""}
+    ${sel && a.missing.length ? `<div class="missing">Lipsesc: ${a.missing.slice(0,3).map(i => esc(L(i.keys[0]))).join(", ")}${a.missing.length>3 ? "…" : ""}</div>` : ""}
   </article>`;
 }
 
@@ -489,16 +588,16 @@ function render(){
       const dayShift = new Date().getDate();
       html = Object.keys(by).sort((a,b) => COURSE_ORDER.indexOf(a) - COURSE_ORDER.indexOf(b)).map(c => {
         const arr = by[c]; const start = dayShift % arr.length; const pick = arr.slice(start).concat(arr.slice(0, start)).slice(0, 4);
-        return `<h3 class="group-title">${COURSE_EMO[c] || ""} ${esc(c)}</h3>` + pick.map((x,i) => note(x, sel, i)).join("");
+        return `<h3 class="group-title">${COURSE_EMO[c] || ""} ${esc(L(c))}</h3>` + pick.map((x,i) => note(x, sel, i)).join("");
       }).join("");
     } else html = list.map((x,i) => note(x, sel, i)).join("");
   }
   $("#results").innerHTML = html;
-  $("#resultCount").textContent = !locked && count ? `${count} rețet${count===1?"ă":"e"}${tab==="sug" && !hasSel() ? " (câteva idei din fiecare fel de mâncare)" : ""}` : "";
+  $("#resultCount").textContent = !locked && count ? (LANG === "en" ? `${count} recipe${count===1?"":"s"}` : `${count} rețet${count===1?"ă":"e"}`) + (tab==="sug" && !hasSel() ? " (câteva idei din fiecare fel de mâncare)" : "") : "";
   $("#favCount").textContent = favs.size ? `(${favs.size})` : "";
   const pb = $("#profileBanner");
   if(profileActive()){
-    const parts = [...profile.diet.map(d => DIETS.find(x => x[0]===d)[1]), ...profile.allergens.map(a => "fără " + a.toLowerCase()), ...profile.avoid.map(a => "fără " + a.toLowerCase())];
+    const parts = [...profile.diet.map(d => DIETS.find(x => x[0]===d)[1]), ...profile.allergens.map(a => "fără " + L(a).toLowerCase()), ...profile.avoid.map(a => "fără " + L(a).toLowerCase())];
     pb.hidden = false; pb.innerHTML = `⚙ Profilul tău este activ: <b>${parts.map(esc).join(", ")}</b>`;
   } else pb.hidden = true;
   updatePremiumUi();
@@ -517,10 +616,10 @@ function premiumBlock(r, a){
       <div class="over"><b>Valori nutriționale complete + înlocuitori</b><button class="btn" data-unlock="Valorile nutriționale și înlocuitorii sunt funcții Premium.">🔒 Deblochează Premium</button></div></div>`;
   }
   const subs = p.substitutions || {}, missKeys = new Set(a.missing.flatMap(i => i.keys));
-  const row = k => `<div class="sub-row"><b>${esc(k)}</b> → ${subs[k].map(esc).join(", ")}</div>`;
+  const row = k => `<div class="sub-row"><b>${esc(L(k))}</b> → ${subs[k].map(v => esc(L(v))).join(", ")}</div>`;
   const forMiss = Object.keys(subs).filter(k => missKeys.has(k)), others = Object.keys(subs).filter(k => !missKeys.has(k));
   const inMeal = meal.includes(r.id);
-  return `<div class="pbox"><h3>★ Valori nutriționale (pentru 1 ${esc(p.per)})</h3>
+  return `<div class="pbox"><h3>★ Valori nutriționale (pentru 1 ${esc(L(p.per))})</h3>
     <div class="tiles">
       <div class="tile"><b>${p.kcal}</b><span>kcal</span></div>
       <div class="tile"><b>${String(p.protein_g).replace(".",",")} g</b><span>proteine</span></div>
@@ -528,7 +627,7 @@ function premiumBlock(r, a){
       <div class="tile"><b>${String(p.fat_g).replace(".",",")} g</b><span>grăsimi</span></div>
       <div class="tile"><b>${String(p.fiber_g).replace(".",",")} g</b><span>fibre</span></div>
     </div>
-    <div>${p.vitamins.map(v => `<span class="vit">${esc(v)}</span>`).join("")}</div>
+    <div>${p.vitamins.map(v => `<span class="vit">${esc(L(v))}</span>`).join("")}</div>
     <p class="hint">Valori estimate din medii ale ingredientelor.</p>
     <div class="actions"><button class="btn ${inMeal ? "ghost" : "green"}" data-meal="${r.id}">${inMeal ? "✓ În masa mea (scoate)" : "🍽 Adaugă la masa mea"}</button></div>
     <h3 style="margin-top:18px">Înlocuitori</h3>
@@ -538,11 +637,11 @@ function premiumBlock(r, a){
 }
 
 function drawSheet(){
-  const r = cur, a = analyse(r), sel = hasSel(), fav = favs.has(r.id), done = doneSteps.size, total = r.steps.length;
+  const r = cur, a = analyse(r), sel = hasSel(), fav = favs.has(r.id), done = doneSteps.size, STEPS = RS(r), total = STEPS.length;
   const haveKeys = new Set(selected);
-  const ingLi = r.ingredients.map(i => {
+  const ingLi = r.ingredients.map((i, idx) => {
     const has = i.keys.some(k => haveKeys.has(k) || STAPLES.has(k));
-    return `<li class="${sel ? (has ? "have" : (i.optional ? "" : "lack")) : ""}">${esc(i.text)}${i.optional && !/opțional/i.test(i.text) ? " (opțional)" : ""}</li>`;
+    return `<li class="${sel ? (has ? "have" : (i.optional ? "" : "lack")) : ""}">${esc(RI(r, idx))}${i.optional && !/opțional|optional/i.test(i.text + RI(r, idx)) ? (LANG === "en" ? " (optional)" : " (opțional)") : ""}</li>`;
   }).join("");
   let body;
   if(cookIdx >= 0){
@@ -551,8 +650,8 @@ function drawSheet(){
       <span class="num">${first ? "Pregătire" : last ? "Gata!" : `Pasul ${cookIdx} din ${total}`}</span>
       <div class="progress" style="max-width:420px;margin:12px auto"><i style="width:${Math.round(cookIdx/(total)*100)}%"></i></div>
       ${first ? `<div class="big">Pregătește ingredientele</div><ul class="ing-list">${ingLi}</ul>`
-        : last ? `<div class="big">🎉 Poftă bună!</div><p class="sub">Ai terminat „${esc(r.name)}”.</p>`
-        : `<div class="big">${stepHtml(r.steps[cookIdx-1])}</div>`}
+        : last ? `<div class="big">🎉 Poftă bună!</div><p class="sub">Ai terminat „${esc(RN(r))}”.</p>`
+        : `<div class="big">${stepHtml(STEPS[cookIdx-1])}</div>`}
       <div class="actions" style="justify-content:center">
         <button class="btn ghost" data-cook="prev" ${first ? "disabled":""}>← Înapoi</button>
         ${last ? `<button class="btn green" data-cook="exit">Închide modul gătit</button>` : `<button class="btn" data-cook="next">${first ? "Începem →" : "Următorul pas →"}</button>`}
@@ -560,24 +659,24 @@ function drawSheet(){
       </div></div>`;
   } else {
     body = `<div class="two-col">
-      <div><h3>Ingrediente</h3><p class="sub" style="margin:0 0 6px">${esc(r.servings)}</p><ul class="ing-list">${ingLi}</ul></div>
+      <div><h3>Ingrediente</h3><p class="sub" style="margin:0 0 6px">${esc(L(r.servings))}</p><ul class="ing-list">${ingLi}</ul></div>
       <div><h3>Ce conține</h3>
         <div class="badges">${badgesFor(r)}</div>
-        <div class="dis" style="margin-top:10px"><b>Alergeni:</b><span>${r.allergenList.length ? r.allergenList.map(a => `<span class="b warn">${esc(a)}</span>`).join(" ") : "niciunul major în ingredientele de bază"}</span>
-          <b>Gluten:</b><span>${esc(r.diet.gluten)}</span><b>Lactoză:</b><span>${esc(r.diet.lactose)}</span><b>Vegană:</b><span>${esc(r.diet.vegan)}</span><b>Vegetariană:</b><span>${esc(r.diet.vegetarian)}</span></div>
-        <p class="hint">${esc(r.allergens)}</p>
-        <p style="margin:8px 0 0"><b>Beneficii:</b> ${esc(r.benefits)}</p></div>
+        <div class="dis" style="margin-top:10px"><b>Alergeni:</b><span>${r.allergenList.length ? r.allergenList.map(a => `<span class="b warn">${esc(L(a))}</span>`).join(" ") : "niciunul major în ingredientele de bază"}</span>
+          <b>Gluten:</b><span>${esc(L(r.diet.gluten))}</span><b>Lactoză:</b><span>${esc(L(r.diet.lactose))}</span><b>Vegană:</b><span>${esc(L(r.diet.vegan))}</span><b>Vegetariană:</b><span>${esc(L(r.diet.vegetarian))}</span></div>
+        <p class="hint">${esc(RA(r))}</p>
+        <p style="margin:8px 0 0"><b>Beneficii:</b> ${esc(RB(r))}</p></div>
     </div>
     <h3>Mod de preparare, pas cu pas</h3>
     <div class="progress"><i style="width:${total ? Math.round(done/total*100) : 0}%"></i></div>
-    <ol class="steps">${r.steps.map((s,i) => `<li class="step ${doneSteps.has(i) ? "done":""}" data-step="${i}" tabindex="0" role="checkbox" aria-checked="${doneSteps.has(i)}"><span class="n">${doneSteps.has(i) ? "✓" : i+1}</span><span class="t">${stepHtml(s)}</span></li>`).join("")}</ol>
+    <ol class="steps">${STEPS.map((s,i) => `<li class="step ${doneSteps.has(i) ? "done":""}" data-step="${i}" tabindex="0" role="checkbox" aria-checked="${doneSteps.has(i)}"><span class="n">${doneSteps.has(i) ? "✓" : i+1}</span><span class="t">${stepHtml(s)}</span></li>`).join("")}</ol>
     <p class="hint">Atinge un pas ca să-l bifezi când l-ai terminat.</p>
     ${premiumBlock(r, a)}`;
   }
   $("#sheet").innerHTML = `<button class="x" data-close aria-label="Închide">✕</button>
-    <h2>${emojiFor(r)} ${esc(r.name)}</h2>
-    <div class="sub">⏱ ${esc(r.time)} · ${esc(r.course)} · ${esc(r.cuisine)}</div>
-    ${r.image ? `<img class="hero" src="${esc(r.image)}" alt="Ilustrație: ${esc(r.name)}">` : ""}
+    <h2>${emojiFor(r)} ${esc(RN(r))}</h2>
+    <div class="sub">⏱ ${esc(L(r.time))} · ${esc(L(r.course))} · ${esc(L(r.cuisine))}</div>
+    ${r.pic ? picHtml(r).replace('class="pic"', 'class="pic hero"') : (r.image ? `<img class="hero" src="${esc(r.image)}" alt="${esc(RN(r))}">` : "")}
     <div class="actions">
       <button class="btn green" data-cook="start">👩‍🍳 Mod gătit pas cu pas</button>
       <button class="btn ghost" data-fav="${r.id}">${fav ? "★ Salvată" : "☆ Salvează (Premium)"}</button>
@@ -591,14 +690,14 @@ function drawMeal(){
   const items = meal.map(id => ({ r: recipes.find(x => x.id === id), p: premiumData && premiumData[id] })).filter(x => x.r && x.p);
   const tot = items.reduce((t, x) => ({ kcal: t.kcal + x.p.kcal, protein: t.protein + x.p.protein_g, carbs: t.carbs + x.p.carbs_g, fat: t.fat + x.p.fat_g, fiber: t.fiber + x.p.fiber_g }), {kcal:0,protein:0,carbs:0,fat:0,fiber:0});
   const vit = [...new Set(items.flatMap(x => x.p.vitamins))];
-  const f = n => String(Math.round(n*10)/10).replace(".", ",");
+  const f = n => String(Math.round(n*10)/10).replace(".", LANG === "en" ? "." : ",");
   $("#mealSheet").innerHTML = `<button class="x" data-close aria-label="Închide">✕</button>
     <h2>🍽 Masa mea</h2>
     ${items.length ? `<p class="sub">Câte o porție din fiecare. Combină un fel principal, o garnitură și un desert!</p>
-      <ul class="ing-list">${items.map(x => `<li style="align-items:center"><span style="flex:1">${esc(x.r.name)} <span class="sub">· ${esc(x.r.course)} · ${x.p.kcal} kcal</span></span><button class="link-btn" data-meal="${x.r.id}">Scoate</button></li>`).join("")}</ul>
+      <ul class="ing-list">${items.map(x => `<li style="align-items:center"><span style="flex:1">${esc(RN(x.r))} <span class="sub">· ${esc(L(x.r.course))} · ${x.p.kcal} kcal</span></span><button class="link-btn" data-meal="${x.r.id}">Scoate</button></li>`).join("")}</ul>
       <h3>Total pentru masa ta</h3>
       <div class="tiles"><div class="tile"><b>${Math.round(tot.kcal)}</b><span>kcal</span></div><div class="tile"><b>${f(tot.protein)} g</b><span>proteine</span></div><div class="tile"><b>${f(tot.carbs)} g</b><span>carbohidrați</span></div><div class="tile"><b>${f(tot.fat)} g</b><span>grăsimi</span></div><div class="tile"><b>${f(tot.fiber)} g</b><span>fibre</span></div></div>
-      <div>${vit.map(v => `<span class="vit">${esc(v)}</span>`).join("")}</div>
+      <div>${vit.map(v => `<span class="vit">${esc(L(v))}</span>`).join("")}</div>
       <p class="hint">Valori estimate.</p>
       <div class="actions"><button class="btn ghost" id="mealClear">Golește masa</button></div>` : `<p>Masa ta e goală. Deschide o rețetă și apasă „Adaugă la masa mea”.</p>`}`;
 }
@@ -606,9 +705,9 @@ function toggleMeal(id){ meal = meal.includes(id) ? meal.filter(x => x !== id) :
 
 /* =====================  PROFIL (Premium)  ===================== */
 function drawProfile(){
-  $("#pDiet").innerHTML = DIETS.map(([k,l]) => `<label><input type="checkbox" data-pd="${k}" ${profile.diet.includes(k) ? "checked":""}> ${l}</label>`).join("");
-  $("#pAllergens").innerHTML = ALLERGENS.map(a => `<label><input type="checkbox" data-pa="${esc(a)}" ${profile.allergens.includes(a) ? "checked":""}> ${esc(a)}</label>`).join("");
-  $("#avoidTags").innerHTML = profile.avoid.map(a => `<span class="tag">${esc(a)}<button data-pr="${esc(a)}" aria-label="Scoate ${esc(a)}">✕</button></span>`).join("") || `<span class="hint">Niciun ingredient evitat.</span>`;
+  $("#pDiet").innerHTML = DIETS.map(([k,l]) => `<label><input type="checkbox" data-pd="${k}" ${profile.diet.includes(k) ? "checked":""}> ${esc(trT(l))}</label>`).join("");
+  $("#pAllergens").innerHTML = ALLERGENS.map(a => `<label><input type="checkbox" data-pa="${esc(a)}" ${profile.allergens.includes(a) ? "checked":""}> ${esc(L(a))}</label>`).join("");
+  $("#avoidTags").innerHTML = profile.avoid.map(a => `<span class="tag">${esc(L(a))}<button data-pr="${esc(a)}" aria-label="Scoate ${esc(L(a))}">✕</button></span>`).join("") || `<span class="hint">Niciun ingredient evitat.</span>`;
 }
 function saveProfile(){ save("profile", profile); drawProfile(); render(); }
 $("#pDiet").addEventListener("change", e => { const k = e.target.dataset.pd; if(!k) return; profile.diet = e.target.checked ? [...new Set([...profile.diet, k])] : profile.diet.filter(x => x !== k); saveProfile(); });
@@ -616,7 +715,7 @@ $("#pAllergens").addEventListener("change", e => { const k = e.target.dataset.pa
 $("#avoidTags").addEventListener("click", e => { const k = e.target.dataset.pr; if(!k) return; profile.avoid = profile.avoid.filter(x => x !== k); saveProfile(); });
 function addAvoid(){
   const v = $("#avoidInput").value.trim(); const all = CATEGORIES.flatMap(c => c[1]);
-  const hit = all.find(i => norm(i) === norm(v)) || all.find(i => norm(i).includes(norm(v)));
+  const hit = all.find(i => norm(i) === norm(v) || norm(L(i)) === norm(v)) || all.find(i => norm(i).includes(norm(v)) || norm(L(i)).includes(norm(v)));
   if(!v || !hit) return; if(!profile.avoid.includes(hit)) profile.avoid.push(hit); $("#avoidInput").value = ""; saveProfile();
 }
 $("#avoidAdd").onclick = addAvoid;
@@ -633,11 +732,11 @@ function updatePremiumUi(){
   const b = $("#premiumBtn"); b.classList.toggle("on", isPremium); b.textContent = isPremium ? "★ Premium activ" : "★ Premium";
   const m = $("#mealBtn"); m.hidden = !(isPremium && meal.length); m.textContent = `🍽 Masa mea (${meal.length})`;
 }
-$("#premiumBtn").onclick = () => { if(isPremium){ if(confirm("Dezactivezi Premium pe acest dispozitiv?")){ isPremium = false; save("premium", false); render(); } } else openUnlock(); };
+$("#premiumBtn").onclick = () => { if(isPremium){ if(confirm(LANG === "en" ? "Turn off Premium on this device?" : "Dezactivezi Premium pe acest dispozitiv?")){ isPremium = false; save("premium", false); render(); } } else openUnlock(); };
 $("#unlockForm").addEventListener("submit", async e => {
   e.preventDefault();
   const v = $("#code").value.trim().toUpperCase();
-  if(!PREMIUM_CODES.map(c => c.toUpperCase()).includes(v)){ $("#codeErr").textContent = "Cod invalid. Verifică și încearcă din nou."; return; }
+  if(!PREMIUM_CODES.map(c => c.toUpperCase()).includes(v)){ $("#codeErr").textContent = LANG === "en" ? "Invalid code. Please check and try again." : "Cod invalid. Verifică și încearcă din nou."; return; }
   isPremium = true; save("premium", true); await loadPremium(); $("#unlockDlg").close(); render(); if(cur && $("#recipeDlg").open) drawSheet();
 });
 $("#profileBtn").onclick = () => { if(!isPremium) return openUnlock("Profilul de dietă, alergenii și ingredientele evitate sunt funcții Premium."); drawProfile(); $("#profileDlg").showModal(); };
@@ -680,19 +779,97 @@ $("#tabAll").onclick = () => setTab("all"); $("#tabSug").onclick = () => setTab(
 
 /* =====================  START  ===================== */
 async function init(){
+  if(LANG === "en"){ try{ EN = await (await fetch("en.json")).json(); }catch(e){ console.error(e); } document.documentElement.lang = "en"; document.title = "Ecolicious – What shall we cook today?"; }
   try{ recipes = await (await fetch("recipes.json")).json(); }
   catch(e){ $("#results").innerHTML = `<div class="empty">Nu s-au putut încărca rețetele. Dacă ai deschis fișierul direct din calculator, publică site-ul (GitHub Pages) sau folosește un server local.</div>`; return; }
   try{ const ing = await (await fetch("ingredients.json")).json(); CATEGORIES = ing.categories; STAPLES = new Set(ing.staples); }catch(e){ console.error(e); }
   const counts = {}; recipes.forEach(r => counts[r.course] = (counts[r.course]||0) + 1);
   const order = COURSE_ORDER.filter(c => counts[c]).concat(Object.keys(counts).filter(c => !COURSE_ORDER.includes(c)));
-  $("#courses").innerHTML = `<button class="tog course" data-course="" aria-pressed="true">Toate (${recipes.length})</button>` + order.map(c => `<button class="tog course" data-course="${esc(c)}" aria-pressed="false">${COURSE_EMO[c] || ""} ${esc(c)} (${counts[c]})</button>`).join("");
-  const cuisines = [...new Set(recipes.map(r => r.cuisine))].sort((a,b) => a.localeCompare(b, "ro"));
-  $("#cuisine").innerHTML += cuisines.map(c => `<option>${esc(c)}</option>`).join("");
-  $("#allIng").innerHTML = CATEGORIES.flatMap(c => c[1]).map(i => `<option value="${esc(i)}">`).join("");
+  $("#courses").innerHTML = `<button class="tog course" data-course="" aria-pressed="true">Toate (${recipes.length})</button>` + order.map(c => `<button class="tog course" data-course="${esc(c)}" aria-pressed="false">${COURSE_EMO[c] || ""} ${esc(L(c))} (${counts[c]})</button>`).join("");
+  const cuisines = [...new Set(recipes.map(r => r.cuisine))].sort((a,b) => L(a).localeCompare(L(b), LANG));
+  $("#cuisine").innerHTML += cuisines.map(c => `<option value="${esc(c)}">${esc(L(c))}</option>`).join("");
+  $("#allIng").innerHTML = CATEGORIES.flatMap(c => c[1]).map(i => `<option value="${esc(L(i))}">`).join("");
   buildIngredients();
   if(isPremium) await loadPremium();
   render();
 }
+
+/* =====================  TRADUCERE INTERFAȚĂ (RO → EN)  ===================== */
+const UI_EXACT = {
+"Rețete":"Recipes","Abonament":"Subscription","Contactați-ne":"Contact us","Întrebări frecvente":"FAQ","Meniu":"Menu","Limba / Language":"Language",
+"Risipa dispare, gustul apare!":"Waste disappears, taste appears!","Ingrediente:":"Ingredients:","Caută ingredient":"Search ingredient","Șterge tot":"Clear all",
+"Niciun ingredient ales":"No ingredient selected","Toate rețetele":"All recipes","★ Sugestii pentru tine":"★ Suggestions for you","★ Favorite":"★ Favourites","Caută rețete":"Search recipes","Fel de mâncare":"Course","Bucătărie":"Cuisine",
+"Toate bucătăriile":"All cuisines","Ingrediente lipsă":"Missing ingredients","Oricâte ingrediente îmi lipsesc":"Any number of missing ingredients","Pot face acum (le am pe toate)":"I can make it now (I have everything)",
+"Lipsește cel mult 1 ingredient":"At most 1 ingredient missing","Lipsesc cel mult 2 ingrediente":"At most 2 ingredients missing","Lipsesc cel mult 3 ingrediente":"At most 3 ingredients missing",
+"Sortare":"Sort","Cele mai potrivite întâi":"Best match first","Alfabetic (A–Z)":"Alphabetical (A–Z)","Cele mai rapide întâi":"Quickest first",
+"🌱 Vegană":"🌱 Vegan","🥕 Vegetariană":"🥕 Vegetarian","Vegană":"Vegan","Vegetariană":"Vegetarian","Fără gluten":"Gluten-free","Fără lactoză":"Lactose-free",
+"⚙ Profilul meu (Premium)":"⚙ My profile (Premium)","↓ Vezi rețetele":"↓ See recipes","Închide":"Close","Ecolicious – înapoi pe site":"Ecolicious – back to the site",
+"Deblochează toate funcțiile:":"Unlock all features:","Toate valorile nutriționale":"All nutritional values","Înlocuitori":"Substitutes","Salvează rețetele favorite":"Save your favourite recipes",
+"Sugestii":"Suggestions","Evită anumite ingrediente":"Avoid certain ingredients","Cumpără Premium":"Buy Premium","Ai deja un cod de acces?":"Already have an access code?","Deblochează":"Unlock",
+"Profilul meu":"My profile","Dieta mea":"My diet","Alergeni de evitat":"Allergens to avoid","Ingrediente de evitat":"Ingredients to avoid","Adaugă":"Add","Gata":"Done","Resetează":"Reset",
+"Ingrediente":"Ingredients","Ce conține":"What it contains","Alergeni:":"Allergens:","Lactoză:":"Lactose:","Gluten:":"Gluten:","Vegană:":"Vegan:","Vegetariană:":"Vegetarian:","Beneficii:":"Benefits:",
+"Mod de preparare, pas cu pas":"Method, step by step","Pregătire":"Preparation","Gata!":"Done!","Pregătește ingredientele":"Prepare the ingredients","🎉 Poftă bună!":"🎉 Enjoy your meal!",
+"← Înapoi":"← Back","Închide modul gătit":"Close cook mode","Începem →":"Let's start →","Următorul pas →":"Next step →","Ieși":"Exit","👩‍🍳 Mod gătit pas cu pas":"👩‍🍳 Step-by-step cook mode",
+"★ Salvată":"★ Saved","☆ Salvează (Premium)":"☆ Save (Premium)","✓ Ai toate ingredientele!":"✓ You have all the ingredients!","kcal":"kcal","proteine":"protein","carbohidrați":"carbs","grăsimi":"fat","fibre":"fibre",
+"Valori nutriționale complete":"Full nutritional values","Valori nutriționale complete + înlocuitori":"Full nutritional values + substitutes","🔒 Deblochează Premium":"🔒 Unlock Premium","Deblochează Premium":"Unlock Premium",
+"🔒 Funcție Premium":"🔒 Premium feature","✓ În masa mea (scoate)":"✓ In my meal (remove)","🍽 Adaugă la masa mea":"🍽 Add to my meal","Alți înlocuitori posibili":"Other possible substitutes",
+"ingredient → alternativă 1, alternativă 2":"ingredient → alternative 1, alternative 2","🍽 Masa mea":"🍽 My meal","Scoate":"Remove","Total pentru masa ta":"Total for your meal","Golește masa":"Clear meal",
+"★ Premium activ":"★ Premium active","Niciun ingredient evitat.":"No ingredient avoided.","✓ Ai tot ce îți trebuie":"✓ You have everything you need","Toate":"All","Deschide rețeta":"Open recipe",
+"Scoate de la favorite":"Remove from favourites","Adaugă la favorite (Premium)":"Add to favourites (Premium)","Scrie un ingredient…":"Write an ingredient…","Introdu codul primit":"Enter your code",
+"Caută un ingredient…":"Search for an ingredient…","niciunul major în ingredientele de bază":"none major in the base ingredients","Valori estimate din medii ale ingredientelor.":"Estimated from average ingredient values.","Valori estimate.":"Estimated values.",
+"Îți lipsesc? Folosește:":"Missing some? Use:","Ai toate ingredientele necesare 🎉":"You have all the necessary ingredients 🎉","Informații":"Information"
+};
+const UI_SUB = [
+["🔍  Caută o rețetă (ex: pizza, supă, somon, desert)…","🔍  Search for a recipe (e.g. pizza, soup, salmon, dessert)…"],
+["Apă, sare și piper sunt considerate mereu în casă – nu contează la potrivire.","Water, salt and pepper are always assumed to be at home – they don't affect matching."],
+["Informațiile despre alergeni și etichetele alimentare sunt orientative – verifică mereu etichetele produselor folosite.","Allergen information and food labels are indicative – always check the labels of the products you use."],
+["Valorile nutriționale (Premium) sunt estimări calculate din valori medii ale ingredientelor și nu înlocuiesc sfatul unui medic sau nutriționist.","Nutritional values (Premium) are estimates calculated from average ingredient values and do not replace the advice of a doctor or nutritionist."],
+[" ale mesei tale (calorii, proteine, carbohidrați, grăsimi, fibre, vitamine)"," of your meal (calories, protein, carbs, fat, fibre, vitamins)"],
+[" pentru ingredientele care îți lipsesc"," for ingredients you are missing"],[" de rețete potrivite dietei tale"," of recipes that fit your diet"],[" și alergeni"," and allergens"],
+["Rețetele care nu se potrivesc sunt ascunse automat, iar „Sugestii pentru tine” le folosește pe cele rămase.","Recipes that don't fit are hidden automatically, and “Suggestions for you” uses the rest."],
+["Atinge un pas ca să-l bifezi când l-ai terminat.","Tap a step to tick it off when you've finished it."],
+["Salvează-ți rețetele favorite și le găsești aici oricând.","Save your favourite recipes and find them here anytime."],["Primești sugestii de rețete potrivite dietei tale.","You get recipe suggestions that fit your diet."],
+["Nu ai încă rețete favorite. Apasă ☆ pe o rețetă ca să o salvezi aici.","You don't have favourite recipes yet. Tap ☆ on a recipe to save it here."],
+["Nicio rețetă nu se potrivește. Încearcă să alegi mai multe ingrediente, să scoți filtrele sau să-ți ajustezi profilul.","No recipe matches. Try choosing more ingredients, removing filters or adjusting your profile."],
+["Salvarea rețetelor favorite este o funcție Premium.","Saving favourite recipes is a Premium feature."],["Sugestiile pentru dieta ta sunt o funcție Premium.","Suggestions for your diet are a Premium feature."],
+["Valorile nutriționale și înlocuitorii sunt funcții Premium.","Nutritional values and substitutes are Premium features."],["Profilul de dietă, alergenii și ingredientele evitate sunt funcții Premium.","Diet profile, allergens and avoided ingredients are Premium features."],
+["Alege ingredientele din clipboard și îți arătăm ce poți înlocui.","Pick ingredients on the clipboard and we'll show what you can swap."],
+["Câte o porție din fiecare. Combină un fel principal, o garnitură și un desert!","One serving of each. Combine a main, a side and a dessert!"],
+["Masa ta e goală. Deschide o rețetă și apasă „Adaugă la masa mea”.","Your meal is empty. Open a recipe and tap “Add to my meal”."],
+["Nu s-au putut încărca rețetele. Dacă ai deschis fișierul direct din calculator, publică site-ul (GitHub Pages) sau folosește un server local.","The recipes could not be loaded. If you opened the file directly from your computer, publish the site (GitHub Pages) or use a local server."],
+["⚙ Profilul tău este activ:","⚙ Your profile is active:"],["Lipsesc: ","Missing: "],[" (câteva idei din fiecare fel de mâncare)"," (a few ideas from each course)"],["Cod invalid. Verifică și încearcă din nou.","Invalid code. Please check and try again."],
+["Valori nutriționale","Nutritional values"],["Funcție Premium","Premium feature"],["💡 Sfat:","💡 Tip:"],["Scoate ","Remove "],["Deschide rețeta ","Open recipe "],["fără ","no "]
+];
+const UI_RX = [
+[/(\d+) din (\d+) ingrediente/g,(m,a,b)=>`${a} of ${b} ingredients`],[/Ai (\d+) of (\d+) ingredients\./g,(m,a,b)=>`You have ${a} of ${b} ingredients.`],
+[/Pasul (\d+) din (\d+)/g,(m,a,b)=>`Step ${a} of ${b}`],[/Ai terminat „(.*)”\./g,(m,a)=>`You finished “${a}”.`],[/Toate \((\d+)\)/g,(m,a)=>`All (${a})`],
+[/Masa mea \((\d+)\)/g,(m,a)=>`My meal (${a})`],[/\(pentru 1 ([^)]+)\)/g,(m,a)=>`(per 1 ${a})`],[/ale mesei/g,"of the meal"]
+];
+function trT(t){
+  if(LANG !== "en" || !t) return t;
+  const k = t.trim(); if(!k) return t;
+  if(UI_EXACT[k]) return t.replace(k, UI_EXACT[k]);
+  let o = t;
+  for(const [rx, f] of UI_RX) o = o.replace(rx, f);
+  o = o.replace(/Ai (\d+) of (\d+) ingredients\./, (m,a,b)=>`You have ${a} of ${b} ingredients.`);
+  for(const [a, b] of UI_SUB) if(o.includes(a)) o = o.split(a).join(b);
+  return o;
+}
+function trTree(root){
+  if(LANG !== "en") return;
+  if(root.nodeType === 3){ const v = trT(root.nodeValue); if(v !== root.nodeValue) root.nodeValue = v; return; }
+  if(root.nodeType !== 1) return;
+  const w = document.createTreeWalker(root, NodeFilter.SHOW_TEXT); let n;
+  while((n = w.nextNode())){ if(n.parentNode && /^(SCRIPT|STYLE)$/.test(n.parentNode.tagName)) continue; const v = trT(n.nodeValue); if(v !== n.nodeValue) n.nodeValue = v; }
+  const els = [root, ...root.querySelectorAll("[placeholder],[aria-label],[title]")];
+  for(const el of els) for(const a of ["placeholder","aria-label","title"]){ const x = el.getAttribute && el.getAttribute(a); if(x){ const v = trT(x); if(v !== x) el.setAttribute(a, v); } }
+}
+if(LANG === "en"){
+  trTree(document.body);
+  new MutationObserver(ms => { for(const m of ms){ if(m.type === "childList") m.addedNodes.forEach(trTree); else if(m.type === "characterData") trTree(m.target); else if(m.type === "attributes"){ const x = m.target.getAttribute(m.attributeName), v = trT(x); if(x && v !== x) m.target.setAttribute(m.attributeName, v); } } })
+    .observe(document.body, {childList:true, subtree:true, characterData:true, attributes:true, attributeFilter:["placeholder","aria-label"]});
+}
+
 init().then(async () => {
   try{
     const u = new URL(location.href), c = (u.searchParams.get("code") || u.searchParams.get("access") || "").trim().toUpperCase();

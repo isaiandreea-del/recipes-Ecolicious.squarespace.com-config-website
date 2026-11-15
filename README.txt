@@ -32,3 +32,11 @@ HOW PREMIUM WORKS
            avoiding ingredients and allergens.
   Premium is unlocked with an access code and remembered in the visitor's browser.
   Note: this is a soft lock. Someone technical could read premium.json directly.
+
+MENU, LANGUAGE AND PICTURES (new)
+  - Top menu (Recipes / Subscription / Contact us / FAQ / Login) and the TikTok + Instagram icons are set in index.html:
+    NAV_LINKS, TIKTOK_URL, INSTAGRAM_URL (near the top of the script). Paths like "/abonament" are added to SQUARESPACE_URL.
+    Create Squarespace pages with those URL slugs, or paste full addresses instead.
+  - Language button (Română / English): all texts are in index.html; English recipes are in en.json.
+  - Watercolor pieces are stored in art.js. Recipe pictures are built from those pieces ("pic" field in recipes.json).
+    36 recipes still use the earlier simple illustration ("image" field) until you add a matching watercolor piece.
