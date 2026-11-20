@@ -1,0 +1,5 @@
+{
+  "enabled": false,
+  "card":   { "image": "photos/ad-card.jpg",   "title": "Your sponsor name", "text": "Short text", "link": "https://example.com" },
+  "banner": { "image": "photos/ad-banner.jpg", "title": "Your sponsor name", "link": "https://example.com" }
+}

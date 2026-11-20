@@ -29,4 +29,54 @@
 <li>Click <b>Commit changes</b>.</li></ol>
 <p><b>Step 5 – Check.</b> After 1–2 minutes refresh the site (Ctrl+F5). The new photo shows on the recipe card and at the top of the recipe. If you still see the old picture, refresh again or check the file name.</p>
 <p><b>To go back to the watercolor picture:</b> delete that recipe's line from photos.json and commit.</p>
+
+<h1 style="margin-top:40px">New features – easy steps</h1>
+
+<h2>C. Give each Premium customer their own code</h2>
+<ol>
+<li>Open <b>code-maker.html</b> from the zip by double-clicking it (it opens in your browser).</li>
+<li>Type the customer's name, optionally pick "Valid until" (for example one month or one year after they pay), and press <b>Make code</b>.</li>
+<li>The code (like <code>ECO-7K2M-9QXA</code>) appears next to the name. <b>Copy it and email it to the customer</b> (for example in your Squarespace order confirmation or a message).</li>
+<li>Press <b>Download codes.json</b>.</li>
+<li>On GitHub: <b>Add file → Upload files</b>, drag in <b>codes.json</b>, click <b>Commit changes</b>. In 1–2 minutes the code works.</li>
+<li>Next time, open code-maker.html and choose your latest <b>codes.json</b> in step 1, so old codes are kept.</li>
+</ol>
+<p>The code <code>PREMIUM2026</code> still works for everyone who types it (use it for yourself and for testing). To switch it off, open <b>index.html</b> on GitHub, find <code>PREMIUM_CODES</code> and delete <code>"PREMIUM2026"</code> from the brackets (leave <code>[]</code>).</p>
+
+<h2>D. Switch a customer off / let them unsubscribe</h2>
+<ol>
+<li><b>Customer cancels or stops paying:</b> open code-maker.html, load your codes.json, press <b>Disable</b> next to their name, download codes.json, and upload it to GitHub (as in C). On their next visit Premium turns off by itself.</li>
+<li><b>Automatic ending:</b> set "Valid until" when you make the code. After that date it stops working.</li>
+<li><b>The customer wants to stop:</b> they click <b>★ Premium activ</b> at the top, then <b>Turn off Premium on this device</b>. To stop the monthly payment they cancel in their Squarespace account (the same dialog has a "Manage subscription" link to your Login page). Please check in your Squarespace settings how customers cancel a subscription, since this depends on your plan.</li>
+</ol>
+
+<h2>E. How the free version works (3 tries a day)</h2>
+<ul>
+<li>Visitors without Premium pick ingredients and press <b>🔍 Find recipes</b>. Each press that shows new results counts as one try. They get <b>3 tries per day</b>; the counter resets at midnight. Pressing again with the same ingredients is free.</li>
+<li>Browsing and searching recipes by name is always free.</li>
+<li>Premium users have unlimited tries and see results instantly.</li>
+<li>To change the number, open index.html on GitHub and change <code>const FREE_TRIES = 3;</code>.</li>
+<li>The count is stored in the visitor's browser, so a technical person can reset it. That is normal for a site without accounts.</li>
+</ul>
+
+<h2>F. Add pictures of your products / ingredients (easiest way)</h2>
+<ol>
+<li>Put your photos in one folder on your computer (any size, .jpg or .png).</li>
+<li>Double-click <b>photo-helper.html</b> (from the zip). It opens in your browser. You need internet for it.</li>
+<li><b>Step 1:</b> click "Choose files" and select the photos.</li>
+<li><b>Step 2:</b> for each photo, pick from the list what it shows (an ingredient/product such as "Roșii", or a recipe such as "12 – Pizza Margherita"). The helper guesses from the file name if it can.</li>
+<li><b>Step 3 (optional):</b> if you added photos before, choose your current <b>photos.json</b> and <b>ingredient-photos.json</b> so they are kept.</li>
+<li><b>Step 4:</b> press <b>Make my ZIP</b>. A file <b>ecolicious-photos.zip</b> downloads. Unzip it.</li>
+<li>On GitHub: <b>Add file → Upload files</b>. Drag in the <b>photos</b> folder, <b>photos.json</b> and <b>ingredient-photos.json</b>. Click <b>Commit changes</b>.</li>
+<li>Wait 1–2 minutes, refresh with Ctrl+F5. Ingredient photos appear as small round pictures on the clipboard chips; recipe photos replace the recipe card picture.</li>
+</ol>
+
+<h2>G. Ads (only for visitors without Premium)</h2>
+<ol>
+<li>Preview: add <code>?ads=demo</code> to your site address (for example <code>https://yourname.github.io/ecolicious/?ads=demo</code>) to see where the ads go: one small sticky-note ad after the 6th recipe and one slim banner under the recipes. Nothing else changes.</li>
+<li>Use the photo-helper (or upload files with Add file → Upload files) to put your ad pictures in the <b>photos</b> folder, for example <code>photos/ad-card.jpg</code> (square-ish) and <code>photos/ad-banner.jpg</code> (wide, about 728×90).</li>
+<li>On GitHub open <b>ads.json</b>, click the pencil icon, change <code>"enabled": false</code> to <code>true</code>, and replace the image names, titles and the <code>link</code> addresses with your sponsor's.</li>
+<li>Click <b>Commit changes</b>. Premium customers never see ads.</li>
+<li>If you use an ad network such as Google AdSense, put its code in the <code>"html"</code> field of <code>banner</code> (ask me and I will prepare it). Ad networks have their own approval rules.</li>
+</ol>
 </body></html>

@@ -42,3 +42,10 @@ MENU, LANGUAGE AND PICTURES (new)
     36 recipes still use the earlier simple illustration ("image" field) until you add a matching watercolor piece.
 
 EASY GUIDE: open EASY-GUIDE.html (TikTok/Instagram links, changing recipe photos via photos.json).
+
+NEW (Nov 21)
+  codes.json + code-maker.html : personal Premium codes (disable / expiry). PREMIUM2026 still works (PREMIUM_CODES in index.html).
+  FREE_TRIES (index.html)      : 3 ingredient searches per day without Premium.
+  ads.json                     : ad slots, shown only without Premium. Preview with ?ads=demo
+  photo-helper.html            : adds photos to ingredients/recipes (writes photos.json + ingredient-photos.json)
+  Everything is explained in EASY-GUIDE.html.

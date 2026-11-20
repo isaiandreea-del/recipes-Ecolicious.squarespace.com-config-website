@@ -1,0 +1,26 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Ecolicious – Code maker</title>
+<style>body{font-family:system-ui,sans-serif;max-width:760px;margin:26px auto;padding:0 16px;line-height:1.55;color:#3a2a20}h1,h2{color:#5a7a24}input,button{font:inherit;padding:9px 12px;border-radius:8px;border:1px solid #b9a98d}button{background:#5a7a24;color:#fff;border:0;cursor:pointer;font-weight:700}button.g{background:#e07a3a}
+table{border-collapse:collapse;width:100%;margin:10px 0}td,th{border-bottom:1px solid #e6dcc6;padding:7px;text-align:left}code{background:#f3ead2;padding:2px 6px;border-radius:5px}.off{opacity:.5;text-decoration:line-through}textarea{width:100%;height:150px;font-family:monospace}.box{background:#faf5e6;padding:14px;border-radius:10px;margin:14px 0}</style></head><body>
+<h1>Ecolicious – Code maker</h1>
+<p>Makes one personal Premium code for each customer. The list is saved in <code>codes.json</code> (only scrambled "fingerprints" are stored, so nobody can read the codes from your site). Everything happens on your computer.</p>
+<div class="box"><h2>1. Open your current list (optional)</h2><p>If you already made codes, choose your current <code>codes.json</code> so new codes are added to it.</p><input type="file" id="f" accept=".json"></div>
+<div class="box"><h2>2. Make a new code</h2>
+<p>Customer name or email (just for you): <input id="nm" size="28" placeholder="e.g. Maria P."></p>
+<p>Valid until (optional, e.g. one month or one year after payment): <input type="date" id="un"></p>
+<button id="mk">Make code</button></div>
+<h2>Your customers</h2>
+<table id="tb"><thead><tr><th>Name</th><th>Valid until</th><th>Status</th><th></th></tr></thead><tbody></tbody></table>
+<div class="box"><h2>3. Save</h2><p><button class="g" id="dl">Download codes.json</button></p>
+<p>Then on GitHub: click <b>Add file → Upload files</b>, drag in the downloaded <code>codes.json</code> (it replaces the old one) and click <b>Commit changes</b>. Changes are live in 1–2 minutes.</p></div>
+<h2>How to switch someone off</h2>
+<p>Press <b>Disable</b> next to the name (or <b>Delete</b>), download the file again and upload it to GitHub. On their next visit Premium turns off. To switch the general code <code>PREMIUM2026</code> off, delete it from <code>PREMIUM_CODES</code> in index.html.</p>
+<script>
+let codes=[];const $=s=>document.querySelector(s);
+async function sha(t){const b=await crypto.subtle.digest("SHA-256",new TextEncoder().encode(t));return[...new Uint8Array(b)].map(x=>x.toString(16).padStart(2,"0")).join("")}
+function gen(){const A="ABCDEFGHJKMNPQRSTUVWXYZ23456789";const r=n=>Array.from(crypto.getRandomValues(new Uint8Array(n)),x=>A[x%A.length]).join("");return"ECO-"+r(4)+"-"+r(4)}
+function draw(){const tb=$("#tb tbody");tb.innerHTML="";codes.forEach((c,i)=>{const tr=document.createElement("tr");tr.className=c.off?"off":"";tr.innerHTML=`<td>${c.name||"(no name)"}${c._code?`<br><b>Code: <code>${c._code}</code></b> – send this to the customer`:""}</td><td>${c.until||"–"}</td><td>${c.off?"disabled":"active"}</td><td><button class="g" data-t="${i}">${c.off?"Enable":"Disable"}</button> <button class="g" data-d="${i}">Delete</button></td>`;tb.appendChild(tr)})}
+$("#f").onchange=async e=>{try{codes=JSON.parse(await e.target.files[0].text()).codes||[];draw()}catch(x){alert("This file could not be read.")}};
+$("#mk").onclick=async()=>{const c=gen();codes.push({hash:await sha("ecolicious:"+c),name:$("#nm").value.trim(),until:$("#un").value||"",off:false,_code:c});$("#nm").value="";draw()};
+$("#tb").onclick=e=>{const t=e.target.dataset.t,d=e.target.dataset.d;if(t!=null)codes[t].off=!codes[t].off;if(d!=null&&confirm("Delete this customer?"))codes.splice(d,1);draw()};
+$("#dl").onclick=()=>{const out={codes:codes.map(({hash,name,until,off})=>{const o={hash,name};if(until)o.until=until;if(off)o.off=true;return o})};const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([JSON.stringify(out,null,2)],{type:"application/json"}));a.download="codes.json";a.click()};
+</script></body></html>
